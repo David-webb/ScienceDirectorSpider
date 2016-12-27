@@ -27,7 +27,8 @@ class ScienceDirectMysql():
             sql = """CREATE TABLE ArticlesUrls(
                 Journal VARCHAR(200) NOT NULL,
                 volume_issue VARCHAR(50) NOT NULL,
-                Aurls VARCHAR(200) PRIMARY KEY
+                Aurls VARCHAR(200) PRIMARY KEY,
+                status ENUM('undownloaded', 'downloading', 'downloaded') NOT NULL DEFAULT 1
             )default charset=utf8;
             """
         elif TableName == 'ArticlesInfo':
@@ -58,7 +59,7 @@ class ScienceDirectMysql():
         if TableName == 'JournalsInfo':
             sql = "INSERT IGNORE INTO " + TableName + " value(%s, %s)"         # 占位符用%s没有问题, IGNORE根据ID查重
         elif TableName == 'ArticlesUrls':
-            sql = "INSERT IGNORE INTO " + TableName + " value(%s, %s, %s)"
+            sql = "INSERT IGNORE INTO " + TableName + "(Journal, volume_issue, Aurls) value(%s, %s, %s)"
         elif TableName == 'ArticlesInfo':
             sql = "INSERT IGNORE INTO " + TableName + " value(%s, %s, %s, %s, %s, %s, %s, %s, %s)"         # 占位符用%s没有问题, IGNORE根据ID查重
         try:
@@ -69,6 +70,56 @@ class ScienceDirectMysql():
             print traceback.format_exc()
             print '插入失败！\n'
             self.db.rollback()
+        pass
+
+    def getoneAurl(self):
+        """ 从数据库中获取已经爬取的文章url（1个） """
+        sql = 'select Journal, volume_issue, Aurls  from ArticlesUrls where status=1 limit 1;'
+        sql1 = 'update ArticlesUrls set status=2 where Aurls='
+        try:
+            self.cursor.execute(sql)
+            ansrcd = self.cursor.fetchone()
+            if ansrcd == None:          # 所有的文章都已经下完
+                return -1
+            self.cursor.execute(sql1 + '"'+ansrcd[2]+'";')
+            self.db.commit()
+            return ansrcd
+        except Exception as e:
+            print e
+            print traceback.format_exc()
+            print "获取Aurl失败！\n"
+            self.db.rollback()
+            return False
+            pass
+
+    def status2to1(self, Aurl):
+        sql2 = 'update ArticlesUrls set status=1 where Aurls="'+Aurl+'";'
+        try:
+            self.cursor.execute(sql2)
+            self.db.commit()
+        except Exception as e:
+            print e
+            print traceback.format_exc()
+            print "2to1状态修改失败！坏数据产生\n"
+            self.db.rollback()
+        pass
+
+    def InsertArtInfo(self, rcdlist, Aurl):
+        """ 插入文章信息 """
+        sql = "INSERT IGNORE INTO ArticlesInfo value(%s, %s, %s, %s, %s, %s, %s, %s, %s)"
+        sql1 = 'update ArticlesUrls set status=3 where Aurls="'+Aurl+'";'
+
+        try:
+            self.cursor.execute(sql, rcdlist)
+            self.cursor.execute(sql1)
+            self.db.commit()
+        except Exception as e:
+            print e
+            print traceback.format_exc()
+            print "插入失败！\n"
+            self.db.rollback()
+            self.status2to1(Aurl)
+            pass
         pass
 
 
@@ -93,7 +144,7 @@ class ScienceDirectMysql():
             if subNum==-2:      # 两种情况下pageNum的含义是不一样的
                 sql = 'Update JournalsInfo set TotalVolumeNum=' + str(pageNum) + ' where Title="' + subjectName + '"'
             else:
-                sql = 'Update JournalsInfo set TotalVolumeNum='+ str(totalVolume) + ', downloadedVolumeNum=' + str(pageNum) + ', subVolumeNum=' + str(subNum) + ' where Title="' + subjectName + '"'
+                sql = 'Update JournalsInfo set TotalVolumeNum=' + str(totalVolume) + ', downloadedVolumeNum=' + str(pageNum) + ', subVolumeNum=' + str(subNum) + ' where Title="' + subjectName + '"'
             # print 'update sql:',sql
             self.cursor.execute(sql)
             self.db.commit()
@@ -113,7 +164,7 @@ class ScienceDirectMysql():
 
 
 if __name__ == '__main__':
-    td = ScienceDirectMysql("localhost", "root", "", "ScienceDirectInfo")
+    td = ScienceDirectMysql("localhost", "root", "tw2016941017", "ScienceDirectInfo")
 
     # *******************创建期刊信息表*****************************
     # td.CreateTable('JournalsInfo')
@@ -153,3 +204,23 @@ if __name__ == '__main__':
     # import time
     # time.sleep(20)
     # print '测试2结束！'
+
+    # ***************************数据库获取一个文章url测试*********************
+    # td.getoneAurl()
+
+    # ***************************测试表空时的异常类型**************************
+    # try:
+    #     td.cursor.execute('select * from tryHouseHolds;')
+    #     anslist = td.cursor.fetchone()
+    #     # if len(anslist):
+    #     #     print '空集合'
+    #     # if anslist == None:
+    #     #     print 'None'
+    #     # if isinstance(anslist, type(None)):
+    #     #     print '空类型'
+    #     #     pass
+    #
+    # except Exception as e:
+    #
+    #     print e
+    #     print traceback.format_exc()

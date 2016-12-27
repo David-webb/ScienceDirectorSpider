@@ -4,7 +4,7 @@ import datetime
 from DataBaseOp import *
 
 def testContinue():
-    td = ScienceDirectMysql("localhost", "root", "", "ScienceDirectInfo")
+    td = ScienceDirectMysql("localhost", "root", "tw2016941017", "ScienceDirectInfo")
     return td.getControlInfo('downloadAUrls')
     pass
 
