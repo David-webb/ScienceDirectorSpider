@@ -9,7 +9,7 @@ import json
 import time
 
 def run():
-    td = ScienceDirectMysql("localhost", "root", "tw2016941017", "ScienceDirectInfo")
+    td = ScienceDirectMysql("localhost", "root", "   ", "ScienceDirectInfo")
     ansrcd = td.getoneAurl()    # 获得一条文章的url
     prsObj = GetArsInfo('')     # 这个变量的定义也可以放到循环中去, 但是会增加新进程的创建和旧进程的销毁(在prsObj指向新进程时)开销,
     while(ansrcd):

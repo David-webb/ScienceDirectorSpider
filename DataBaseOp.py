@@ -164,7 +164,7 @@ class ScienceDirectMysql():
 
 
 if __name__ == '__main__':
-    td = ScienceDirectMysql("localhost", "root", "tw2016941017", "ScienceDirectInfo")
+    td = ScienceDirectMysql("localhost", "root", " ", "ScienceDirectInfo")
 
     # *******************创建期刊信息表*****************************
     # td.CreateTable('JournalsInfo')

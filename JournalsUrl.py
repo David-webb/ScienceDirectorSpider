@@ -54,7 +54,7 @@ class ScienceDirectCrawl():
 
 
         # 将数据导入数据库中
-        # td = ScienceDirectMysql("localhost", "root", "tw2016941017", "ScienceDirectInfo")
+        # td = ScienceDirectMysql("localhost", "root", "  ", "ScienceDirectInfo")
         # td.CreateTable('JournalsInfo')
         # with open('JournalsInfo.txt', 'r') as rd:
         #     ValueList = json.loads(rd.read())
@@ -120,7 +120,7 @@ class ScienceDirectCrawl():
         tp = UsefulProxyPool.runningPool(
                 'localhost',         # 数据库所在主机的ip
                 'root',           # 数据库用户名
-                'tw2016941017',       # 数据库密码
+                '  ',       # 数据库密码
                 'ProxyPool2',       # 数据库名称(可省, 程序指定为ProxyPool2)
                 National=True,      # 国内代理的标志
                 highLevel=True,         # 高匿代理的标志
@@ -217,7 +217,7 @@ class ScienceDirectCrawl():
         pass
 
 if __name__ == '__main__':
-    sd = ScienceDirectCrawl("localhost", "root", "tw2016941017", "ScienceDirectInfo")
+    sd = ScienceDirectCrawl("localhost", "root", "  ", "ScienceDirectInfo")
     # sd.getVolumeInfo()
     sd.getArticlesUrls()
     # print sd.getoneProxyIp()
