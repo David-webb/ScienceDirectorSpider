@@ -1,0 +1,895 @@
+<!DOCTYPE html><html><iframe src="javascript:false" title="" style="width: 0px; height: 0px; border-top-width: 0px; border-right-width: 0px; border-bottom-width: 0px; border-left-width: 0px; border-style: initial; border-color: initial; display: none; "></iframe><script async="" type="text/javascript" src="http://www.googletagservices.com/tag/js/gpt.js"></script><script type="text/javascript" async="" src="//cdn.optimizely.com/js/204774041.js"></script><head><script async="" src="http://www.deepdyve.com/rental-link?docId=10.1016/j.acra.2012.04.007&amp;journal=10766332&amp;fieldName=journal_doi&amp;affiliateId=elsevier&amp;format=jsonp&amp;callback=jQuery111108427804787643254_1481806178122&amp;_=1481806178123"></script><script type="text/javascript" async="" src="//cdn3.optimizely.com/js/geo2.js"></script><script type="text/javascript" src="http://dpm.demdex.net/id?d_visid_ver=1.10.0&amp;d_fieldgroup=MC&amp;d_rtbd=json&amp;d_ver=2&amp;d_verify=1&amp;d_orgid=4D6368F454EC41940A4C98A6%40AdobeOrg&amp;d_nsid=0&amp;d_cb=s_c_il%5B0%5D._setMarketingCloudFields"></script>
+<link rel="stylesheet" title="Default Styles" href="//sdfestaticassets-us-east-1.sciencedirectassets.com/prod/63dd062bee499e82c7133c2835ed6271ce0d899c/style.css" type="text/css">
+
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+<meta name="robots" content="NOINDEX,NOARCHIVE">
+<meta name="robots" content="noodp">
+<meta name="robots" content="noydir">
+
+<link rel="canonical" href="http://www.sciencedirect.com/science/article/pii/S1076633212002176">
+
+
+<link rel="shortcut icon" href="http://cdn.els-cdn.com/sd/favSD.ico" type="image/x-icon">
+<title>
+ Writing a Clinically Appraised Topic Is a Team Sport
+ </title> 
+
+<link type="text/css" rel="StyleSheet" href="http://www.sciencedirect.com/gadgetservices/gadgets/v9/css/gadgets_ext,gadgets,toolbar,SDArticleGadgetOverRide,jquery-ui-1.8.4.custom.css">
+
+
+<link rel="stylesheet" href="http://cdn.els-cdn.com/sd/css/article_1612R2.css" type="text/css">
+<link rel="stylesheet" href="http://cdn.els-cdn.com/sd/css/articleSprite_1612R2.css" type="text/css">
+<link rel="stylesheet" href="http://cdn.els-cdn.com/sd/css/jquery-ui_1612R2.css" type="text/css">
+
+
+
+
+<!--[if lt IE 9]>
+<link rel="stylesheet" Title="Default Styles" href="http://cdn.els-cdn.com/sd/css/css_gen_ielt9_1612R2.css" type="text/css">
+<![endif]-->
+
+<script>
+var ab=new Object();
+ab.entitled = false;
+</script>
+<script>(function() {var scriptTag = document.createElement('script'); 
+scriptTag.type = 'text/javascript';scriptTag.async = true;
+scriptTag.src = '//cdn.optimizely.com/js/204774041.js';
+var head = document.getElementsByTagName('head')[0];
+head.parentNode.insertBefore(scriptTag, head);
+})();function optimizelyTimeout() {
+window.optimizely = window.optimizely|| []; 
+if(!window.optimizely.data) {
+window.optimizely.push("timeout"); } }
+setTimeout(optimizelyTimeout, 1000); </script>
+
+<!-- Start: GPT Async -->
+<script type="text/javascript">
+	
+var gptadslots=[];
+	
+var googletag = googletag || {};
+	
+googletag.cmd = googletag.cmd || [];
+	
+(function(){ var gads = document.createElement('script');
+		
+gads.async = true; gads.type = 'text/javascript';
+		
+var useSSL = 'https:' == document.location.protocol;
+		
+gads.src = (useSSL ? 'https:' : 'http:') + '//www.googletagservices.com/tag/js/gpt.js';
+		
+var node = document.getElementsByTagName('script')[0];
+		
+node.parentNode.insertBefore(gads, node);
+	})();
+
+</script>
+
+<script>
+var prs = new Object();prs.rt=function(label,ts){this[label]=(ts||ts==0?ts:new Date().getTime());};
+</script>
+
+
+
+<!--[if lte IE 7]>
+<script src="http://cdn.els-cdn.com/sd/ut/js/json2_1612R2.js.min"></script>
+<![endif]-->
+<script>
+(function() {
+  if (window.BOOMR && window.BOOMR.version) { return; }
+  var dom,doc,where,iframe = document.createElement('iframe'),win = window;
+
+  function boomerangSaveLoadTime(e) {
+    win.BOOMR_onload=(e && e.timeStamp) || new Date().getTime();
+  }
+  if (win.addEventListener) {
+    win.addEventListener("load", boomerangSaveLoadTime, false);
+  } else if (win.attachEvent) {
+    win.attachEvent("onload", boomerangSaveLoadTime);
+  }
+
+  iframe.src = "javascript:false";
+  iframe.title = ""; iframe.role="presentation";
+  (iframe.frameElement || iframe).style.cssText = "width:0;height:0;border:0;display:none;";
+  where = document.getElementsByTagName('script')[0];
+  where.parentNode.insertBefore(iframe, where);
+
+  try {
+    doc = iframe.contentWindow.document;
+  } catch(e) {
+    dom = document.domain;
+    iframe.src="javascript:var d=document.open();d.domain='"+dom+"';void(0);";
+    doc = iframe.contentWindow.document;
+  }
+  doc.open()._l = function() {
+    var js = this.createElement("script");
+    if(dom) this.domain = dom;
+    js.id = "boomr-if-as";
+    js.src = '//c.go-mpulse.net/boomerang/' +
+    '2FBN2-NKMGU-EJKY8-ZANKZ-SUJZF';
+    BOOMR_lstart=new Date().getTime();
+    this.body.appendChild(js);
+  };
+  doc.write('<body onload="document._l();">');
+  doc.close();
+})();
+</script><script src="http://pubads.g.doubleclick.net/gpt/pubads_impl_107.js" async=""></script><script src="http://assets.adobedtm.com/376c5346e33126fdb6b2dbac81e307cbacfd7935/s-code-contents-9c0358adbc3b5986e210099b3bf1d427fc5bd286.js"></script><script src="http://sciverse-shindig.elsevier.com/gadgets/js/shindig-container:pubsub-2.js?c=1" class="lazyload" charset="utf-8"></script><script src="http://www.sciencedirect.com/gadgetservices/gadgets/v9/js/SciverseShindigService,GadgetToolBar,jquery-outside,jquery.ba-bbq.min,SciverseShindigContainer,ScienceDirectShindigServices.js" class="lazyload" charset="utf-8"></script><style type="text/css" media="print">.usabilla_live_button_container { display: none; }</style></head>
+
+
+
+
+
+
+
+<body><div id="isIElte8test"><!--[if lte IE 8]><div id="isIElte8"></div><![endif]--></div><div style="display: none; " id="lightningjs-usabilla_live"><div><iframe frameborder="0" id="lightningjs-frame-usabilla_live"></iframe></div></div><div id="isIE9test"><!--[if  IE 9]><div id="isIE9"></div><![endif]--></div><div id="isIE8test"><!--[if  IE 8]><div id="isIE8"></div><![endif]--></div><div id="isIE7test"><!--[if  IE 7]><div id="isIE7"></div><![endif]--></div><div id="isIElt7test"><!--[if lt IE 7]><div id="isIElt7"></div><![endif]--></div>
+
+<div class="ua_btn" role="region" aria-label="screen reader compatability"><a role="button" rel="nofollow" href="http://www.sciencedirect.com/science/article/pii/S1076633212002176?np=y">Screen reader users, click here to load entire article</a>This page uses JavaScript to progressively load the article content as a user scrolls.  Screen reader users, click the load entire article button to bypass dynamically loaded article content.</div>
+
+
+
+<script>
+var refLinkURL = "http://www.sciencedirect.com/science/relLink/ajaxReq?_eid=1-s2.0-S1076633212002176";
+var updatedCitedBy = "http://www.sciencedirect.com/science/referenceResolution/ajaxRefResol?_updateCitedBy=";
+var refResolvePath = "http://www.sciencedirect.com/science/referenceResolution/ajaxRefResol?_pii=S1076633212002176&_refCnt=0&_docType=simple-article";
+
+// these variables handle the reference resolution. Please ignore the naming.
+// the first variable myMap will hold an associative array of links by bibID
+// the second variable myXabsCounts holds the scopus counts.
+var myMap = []; // html of links for references.
+var myXabsCounts = []; // scopus counts
+</script>
+<div id="header-area">
+  
+
+
+<!-- ************* For A/B testing FAST and SOLR Proxy ***************** -->
+
+<!-- *************End for A/B testing FAST and SOLR Proxy *****************-->
+
+
+
+<div id="ieWarningMsg">
+    <span class="infoIcon_ie spErrorIcon">
+        Please note that Internet Explorer version 8.x will not be supported as of January 1, 2016. Please refer to <a href="http://blog.sciencedirect.com/posts/have-you-heard-spread-the-word-about-upgrading-your-browser"> this blog post</a> for more information.
+    </span>
+    <a class="closeBt" title="Close Internet Explorer 7 warning">Close</a>
+</div>
+
+
+
+<div id="header">
+
+<div class="ccs-component">
+    <div class="header" role="banner"><div class="els-header"><noscript></noscript><div class="els-header-sub-nav-container"><div class="els-header-leftside"><div class="els-header-wordmark"><a href="/"><span aria-label="ScienceDirect" class="ccs-icon svg-wordmark-sciencedirect-orange els-main-title"><span class="svg-text">ScienceDirect</span></span></a></div></div><div class="els-header-sub-nav"><ul class="JournalsAndBooks els-header-navigation" role="navigation"><li class="els-header-navigation-section"><a id="ccs-journalsLink" class="link-inherit els-header-navigation-item " href="/science/journals">Journals</a></li><li class="els-header-navigation-section"><a id="ccs-journalsLink" class="link-inherit els-header-navigation-item " href="/science/bookbshsrw">Books</a></li><li class="els-header-navigation-section"><a class="link-inherit els-header-navigation-item " href="https://www.sciencedirect.com/user/register?returnURL=http%3A%2F%2Fwww.sciencedirect.com%2Fscience%2Farticle%2Fpii%2FS1076633212002176">Register</a></li></ul><ul class="els-header-icons"><li class="els-header-icons-item els-header-user"><a aria-controls="ccs-profilePopup" aria-expanded="false" id="ccs-profilePopupLink" title="" href="https://www.sciencedirect.com/sdfe/user/loginPage" class="link-inherit els-header-user-link"><span class="signIn_User"><span class="els-header-user-sign-in">Sign in</span><span class="ccs-icon svg-sdfe-arrow-down els-header-user-icon-signin"></span></span></a><div class="SignInOut"><div class="ccs-signin-popup" role="dialog" id="ccs-profilePopup" aria-label="Sign in"><div class="ccs-signin-popup-body-border"><div class="ccs-signin-body ccs-signin-popup-body"><form class="SignInForm ccs-signin-local" action="https://www.sciencedirect.com/science/MiamiLoginURL" method="POST"><input type="hidden" value="login" name="login"><input type="hidden" value="MiamiLogonURL" name="_ob"><input type="hidden" value="http://www.sciencedirect.com/science/article/pii/S1076633212002176" name="returnURL"><input type="hidden" value="http://www.sciencedirect.com/science/article/pii/S1076633212002176" name="targetURL"><input type="hidden" value="https://www.sciencedirect.com/science/MiamiLoginURL" name="invalidLoginURL"><div><h3>Sign in using your ScienceDirect credentials</h3><div class="ccs-signin-form"><div><label class="ccs-signin-form-left">Username</label><span class="ccs-signin-form-right"><input class="ccs-signin-username" name="userid" id="ccs-signin-username-input" title="Please enter your username here" type="text"></span></div><div><label class="ccs-signin-form-left">Password</label><span class="ccs-signin-form-right"><input class="ccs-signin-password" name="password" title="Please enter your password here" type="password"></span></div><div><label class="ccs-signin-form-left"></label><span class="ccs-signin-form-right"><input class="" name="rememberid" value="Y" title="Checking this option will log you in automatically next time you visit ScienceDirect" type="checkbox" checked=""><label>Remember me</label></span></div><div><label class="ccs-signin-form-left"></label><span class="ccs-signin-form-right"><input class="ccs-signin-submit" value="Sign in" title="Sign in to ScienceDirect" type="submit"></span></div><div><label class="ccs-signin-form-left"></label><span class="ccs-signin-form-right"><a class="link-inherit" href="/science?_ob=ReminderURL&amp;_method=display&amp;md5=4a97631c25ac81c09ad2f961106e9da2" target="passwd" title="Click here for help in recovering your ScienceDirect access">Forgotten username or password?</a></span></div></div></div></form><div class="InstitutionalLogin ccs-signin-remote"><h3>Sign in via your institution</h3><ul class="ccs-signin-institution"><li class="ccs-signin-open-athens"><a class="link-inherit" href="https://auth.elsevier.com/ShibAuth/institutionLogin?entityID=https%3A%2F%2Fidp.eduserv.org.uk%2Fopenathens&amp;appReturnURL=http%3A%2F%2Fwww.sciencedirect.com%2Fscience%2Farticle%2Fpii%2FS1076633212002176" title="Log in using OpenAthens"><svg width="8" height="8" viewBox="0 0 16 16" class="recentInst"><path d="M4.452 0l-1.26 1.26L9.932 8l-6.74 6.74L4.452 16l8-8-8-8z"></path></svg> OpenAthens</a></li><li class="ccs-signin-external"><a class="link-inherit" href="/science/externallogin" title="Other institution login"><svg width="8" height="8" viewBox="0 0 16 16" class="recentInst"><path d="M4.452 0l-1.26 1.26L9.932 8l-6.74 6.74L4.452 16l8-8-8-8z"></path></svg> Other institution</a></li></ul></div></div></div></div></div></li><li class="Help els-header-icons-item"><a id="ccs-help-link" class="link-inherit els-header-help" href="/science?_ob=HelpURL&amp;_file=browse_open_doc.htm&amp;_btn=Y" title="Help" target="_blank"><span aria-label="Help" class="ccs-icon svg-help"><span class="svg-text">Help</span></span></a></li></ul><div id="mobile-menu-parent"><div class="HamburgerButton" id="hamburger-button"><button id="ccs-mobileHamburgerButton" aria-controls="" aria-expanded="false" aria-label="Menu" class="link"><span class="svg-hamburger-closed"></span></button></div><div aria-label="Mobile menu" class="MobileMenu" id="mobile-menu"><div class="mobile-menu-container" id="mobile-menu-container"><div class="mobilemenu-content"><div><div class="primary-mobile-menu"><ul class="JournalsAndBooks els-header-navigation" role="navigation"><li class="els-header-navigation-section"><a id="mobileccs-journalsLink" class="link-inherit els-header-navigation-item " href="/science/journals">Journals</a></li><li class="els-header-navigation-section"><a id="mobileccs-journalsLink" class="link-inherit els-header-navigation-item " href="/science/bookbshsrw">Books</a></li><li class="els-header-navigation-section"><a class="link-inherit els-header-navigation-item " href="https://www.sciencedirect.com/user/register?returnURL=http%3A%2F%2Fwww.sciencedirect.com%2Fscience%2Farticle%2Fpii%2FS1076633212002176">Register</a></li></ul></div><div class="secondary-mobile-menu"><li class="els-header-icons-item els-header-user"><a href="#" aria-controls="mobileccs-profilePopup" aria-expanded="false" id="mobileccs-ProfilePopupLink" class="link-inherit els-header-user-link"><span class="signIn_User"><span class="els-header-user-sign-in">Sign in</span><span class="ccs-icon svg-sdfe-arrow-down els-header-user-icon-signin"></span></span></a></li><li class="Help els-header-icons-item"><a id="mobileccs-help-link" class="link-inherit els-header-help" href="/science?_ob=HelpURL&amp;_file=browse_open_doc.htm&amp;_btn=Y" title="Help" target="_blank"><span aria-label="Help" class="ccs-icon svg-help"><span class="svg-text">Help</span></span></a></li></div></div></div></div></div></div><div class="SignInOut"><div class="ccs-signin-popup ccs-mobile-signin-popup" role="dialog" id="mobileccs-profilePopup" aria-label="Sign in"><div class="ccs-signin-popup-body-border"><div class="ccs-signin-body ccs-signin-popup-body"><form class="SignInForm ccs-signin-local" action="https://www.sciencedirect.com/science/MiamiLoginURL" method="POST"><div class="ccs-sign-in-close"><a href="#" class="ccs-icon svg-delete link-inherit" id="ccs-closeSignInPopup" aria-label="Close sign in popup" aria-controls="mobileccs-profilePopup" role="button" title="Close"><span class="svg-text">close</span></a></div><input type="hidden" value="login" name="login"><input type="hidden" value="MiamiLogonURL" name="_ob"><input type="hidden" value="http://www.sciencedirect.com/science/article/pii/S1076633212002176" name="returnURL"><input type="hidden" value="http://www.sciencedirect.com/science/article/pii/S1076633212002176" name="targetURL"><input type="hidden" value="https://www.sciencedirect.com/science/MiamiLoginURL" name="invalidLoginURL"><div><h3>Sign in using your ScienceDirect credentials</h3><div class="ccs-signin-form"><div><label class="ccs-signin-form-left">Username</label><span class="ccs-signin-form-right"><input class="ccs-signin-username" name="userid" id="mobileccs-signin-username-input" title="Please enter your username here" type="text"></span></div><div><label class="ccs-signin-form-left">Password</label><span class="ccs-signin-form-right"><input class="ccs-signin-password" name="password" title="Please enter your password here" type="password"></span></div><div><label class="ccs-signin-form-left"></label><span class="ccs-signin-form-right"><input class="" name="rememberid" value="Y" title="Checking this option will log you in automatically next time you visit ScienceDirect" type="checkbox" checked=""><label>Remember me</label></span></div><div><label class="ccs-signin-form-left"></label><span class="ccs-signin-form-right"><input class="ccs-signin-submit" value="Sign in" title="Sign in to ScienceDirect" type="submit"></span></div><div><label class="ccs-signin-form-left"></label><span class="ccs-signin-form-right"><a class="link-inherit" href="/science?_ob=ReminderURL&amp;_method=display&amp;md5=4a97631c25ac81c09ad2f961106e9da2" target="passwd" title="Click here for help in recovering your ScienceDirect access">Forgotten username or password?</a></span></div></div></div></form><div class="InstitutionalLogin ccs-signin-remote"><h3>Sign in via your institution</h3><ul class="ccs-signin-institution"><li class="ccs-signin-open-athens"><a class="link-inherit" href="https://auth.elsevier.com/ShibAuth/institutionLogin?entityID=https%3A%2F%2Fidp.eduserv.org.uk%2Fopenathens&amp;appReturnURL=http%3A%2F%2Fwww.sciencedirect.com%2Fscience%2Farticle%2Fpii%2FS1076633212002176" title="Log in using OpenAthens"><svg width="8" height="8" viewBox="0 0 16 16" class="recentInst"><path d="M4.452 0l-1.26 1.26L9.932 8l-6.74 6.74L4.452 16l8-8-8-8z"></path></svg> OpenAthens</a></li><li class="ccs-signin-external"><a class="link-inherit" href="/science/externallogin" title="Other institution login"><svg width="8" height="8" viewBox="0 0 16 16" class="recentInst"><path d="M4.452 0l-1.26 1.26L9.932 8l-6.74 6.74L4.452 16l8-8-8-8z"></path></svg> Other institution</a></li></ul></div></div></div></div></div></div></div></div></div> 
+    
+</div> 
+
+
+</div><!--header-->
+
+
+
+
+
+
+
+
+
+</div><!--header-area-->
+        <!-- PDFKING/PDFCITE -->
+        <div id="pdfModalWindow" class="pdfModalWindow" style="display:none;" onclick="pdfCite.closePopup();"></div>
+        <div id="suggestedPdfList" style="display:none;">
+        
+        </div>
+        <!-- PDFKING/PDFCITE End -->
+<div id="page-area">
+    
+     
+     
+    <div id="articleToolbar" class="clearfix quicksearch prd_sci_dir addPadding low">
+        <div id="articleNav" style="margin-left: 6px; ">
+  <ul aria-label="Article options" role="navigation" class="clearfix">
+    <!-- return to gateway -->
+     
+
+
+
+
+
+
+<li>
+  <div class="icon_pdf toolbar ppv">
+    <div class="largeIcon"></div>
+    <a id="pdfLink" rel="nofollow" href="/science?_ob=ShoppingCartURL&amp;_method=add&amp;_eid=1-s2.0-S1076633212002176&amp;originContentFamily=serial&amp;_origin=article&amp;_ts=1481806176&amp;md5=bc140fc21130a29a7ced9935d9ca8177" querystr="?_origin=article&amp;_zone=toolbar" target="" class="S_C_pdfLink big pdf ext_sdlink cLink" style="cursor:pointer" title="Purchase PDF">Purchase </a>
+  </div>
+</li>
+ 
+ 
+
+
+
+
+
+
+
+<li class="exportPopupListitem">
+<div class="pulldown">
+    <div class="exportDivision" title="Export citations">
+    <div class="exportIconText">
+    <div class="icon_exportarticlesci_dir initialImage export_icon" tabindex="0"> &nbsp; </div>
+    <input id="icon_exportarticle" value="Export" name="export" class="listAction export export_general" tabindex="-1" type="button">
+     <span class="downSM_sci_dir exportArrow"></span>
+    </div>
+    <input class="zone" name="zone" type="hidden" value="exportDropDown">
+    </div>
+    <div class="menu export_popup hidden" id="export_popup">
+    <div class="warningIcon" title="Warning Icon" alt="Warning Icon" style="display: none; "></div>
+    <form name="exportCite" method="post" action="/science?_ob=DownloadURL&amp;_method=finish&amp;_eidkey=1-s2.0-S1076633212002176&amp;count=1&amp;_docType=FLA&amp;md5=39ececeff75fe0841d52df2b7ea6c341" target="">
+    <input class="zone" name="zone" type="hidden" value="exportDropDown">
+            <script language="javascript" type="text/javascript">
+<!--
+
+function checkExportFormat(limit) {
+
+    var msg = "";
+
+    for (i=0;i<document.exportCite.elements.length;i++) {
+        if (document.exportCite.elements[i].value == "REFWX") {
+            if (document.exportCite.elements[i].checked) {
+                document.exportCite.setAttribute('target',"RefWorksMain");
+                if (checkLimit()) {
+                    if (limit) {
+                        msg = "It is possible that some users may experience problems when downloading large numbers of citations. If this happens please contact RefWorks support at your regionally hosted site or e-mail support@refworks.com to assist you further.\n\n";
+                    }
+                    msg += "Exporting to RefWorks may take some time, please wait....";
+                    alert(msg);
+                }
+            }
+            else {
+                document.exportCite.setAttribute('target',"");
+            }
+            break;
+        }
+    }
+    return true;
+}
+
+function determineCount(numStr) {
+    var count=1;
+
+    if(numStr.indexOf("-")) {
+        var rangeStr = numStr.split("-");
+
+        if(rangeStr.length == 2) {
+            var highNum = parseInt(rangeStr[1]);
+            var lowNum = parseInt(rangeStr[0]);
+
+            if(highNum >= lowNum) { count = (highNum - lowNum) + 1; }
+        }
+    }
+    return count;
+}
+
+function checkLimit(){
+
+    var selectNum = "";
+    var useSelected = false;
+    var allNum = 0;
+    var count = 0;
+    var rdoc = 0;
+
+    for (i=0;i<document.exportCite.elements.length;i++) {
+        if (document.exportCite.elements[i].name == "count") {
+            allNum = document.exportCite.elements[i].value;
+        }
+        if (document.exportCite.elements[i].name == "NUMBER_LIST") {
+            selectNum = document.exportCite.elements[i].value;
+        }
+        if (document.exportCite.elements[i].name == "_rdoc") {
+            rdoc = document.exportCite.elements[i].value;
+        }
+        if (document.exportCite.elements[i].value == "selected") {
+            if (document.exportCite.elements[i].checked) {
+                useSelected = true;
+            }
+        }
+    }
+
+    if (useSelected) {
+        selectNum = selectNum.replace(/ /g,"");
+        if(selectNum.indexOf(",")) {
+            var commaList = selectNum.split(",");
+            for(i=0; i < commaList.length; i++) {
+                count += determineCount(commaList[i]);
+            }
+        }
+        else {
+            count += determineCount(selectNum);
+        }
+    }
+    else { 
+        if (rdoc > 0) {
+            count = 1;
+        }
+        else {
+            count = allNum;
+        }
+    }
+
+    if(count > 50) { return true; }
+  
+    return false;
+}
+
+//-->
+</script>
+
+    <div class="exportInfo">
+        <div class="chkboxCount"></div>
+        <div class="exportHelp">
+            <a target="sdhelp" href="/science?_ob=HelpURL&amp;_file=art_export.htm&amp;_btn=Y&amp;_zone=TopNavBar&amp;_origin=article" title="Help (Opens new window)" onclick="var helpWin; helpWin=window.open('/science?_ob=HelpURL&amp;_file=art_export.htm&amp;_btn=Y&amp;_zone=TopNavBar&amp;_origin=article','sdhelp','scrollbars=yes,resizable=yes,directories=no,toolbar=no,menubar=no,status=no,width=984,height=738'); helpWin.focus(); return false">Help</a>
+        </div>
+    </div>
+
+    <div class="expContainer">
+      <ul class="Export_Popup" width="100%">
+        <li class="subHeading"><h3> Direct export </h3></li>
+        <li class="direct_export">
+         
+            <div>
+              <div class="btn_export directExport">
+                <div class="icon_Mendeley" title="Save to Mendeley">&nbsp;</div>
+                <input id="directExport" type="button" value="Save to Mendeley" name="Save to Mendeley" alt="Save to Mendeley" class="mendeleyBT button">
+              </div>
+            </div>
+        
+        
+            <div class="btnLine">
+              <div class="btn_export refworks">
+                <div class="icon_Refworks" title="Save to RefWorks">&nbsp;</div>
+                <input id="REFWX" type="button" value="Save to RefWorks" name="Save to RefWorks" alt="Save to RefWorks" class="button refworks">
+              </div> 
+            </div>
+            <div class="clear"> </div>
+        
+        </li>
+        <li class="subHeading big"> <h3>Export file</h3></li>
+        <li class="export_radio RIS"><input type="radio" id="RIS" checked="" name="citation-type" value="RIS" class="artRadio expRadio RIS">&nbsp;<label for="RIS">RIS&nbsp;(for EndNote, Reference Manager, ProCite)</label>
+        </li>
+        <li class="export_radio"><input type="radio" id="BIBTEX" name="citation-type" value="BIBTEX" class="artRadio expRadio BIBTEX">&nbsp;<label for="BIBTEX">BibTeX</label>
+        </li>
+        <li class="export_radio"><input type="radio" id="ASCII" name="citation-type" value="ASCII" class="artRadio expRadio ASCII">&nbsp;<label for="ASCII">Text</label>
+        </li>
+        <li class="export_radio hidden"><input type="radio" id="REFWX" name="citation-type" value="REFWX" class="artRadio expRadio REFWX">&nbsp;<label for="REFWX">RefWorks Direct Export</label>
+        </li>
+        <li class="subHeading big"><h3>Content</h3></li>
+        <li class="expCitab export_radio"><input type="radio" id="cite" class="cite artRadio expRadio" name="format" value="cite">&nbsp;<label class="cit" for="cite"> Citation Only </label>
+        </li>
+        <li class="expCitab export_radio citab"><input type="radio" id="cite-abs" class="cite-abs artRadio expRadio" name="format" value="cite-abs" checked="">&nbsp;<label class="cab" for="cite-abs"> Citation and Abstract </label>
+        </li>
+        <li class="export_submit">
+            <div class="downBtn export_downBtn">
+               <input type="submit" value="Export" name="export" alt="Export" class="button export_button" id="export_button">
+            </div> 
+        </li>
+      </ul>
+
+    </div>
+
+
+        
+         
+
+    </form>
+    </div> 
+</div>    
+</li>
+  
+
+
+
+</ul>
+</div>
+
+<div class="sdSearch" aria-label="Quick search" role="search">
+    <fieldset>
+        <div class="left">
+            <form id="quickSearch" name="qkSrch" method="get" target="_top" action="/science">
+            <input type="hidden" name="_ob" value="QuickSearchURL">
+            <input type="hidden" name="_method" value="submitForm">
+            <input type="hidden" name="_acct" value="C000228598">
+            <input type="hidden" name="searchtype" value="a">
+            <input type="hidden" name="_origin" value="article">
+            <input type="hidden" name="_zone" value="qSearch">
+            <input type="hidden" name="md5" value="89d09e911d3872e16ae140ceae8c0b3b">
+            
+            <input id="quickSearch" type="text" name="qs_all" placeholder="Search ScienceDirect" value="" size="30" maxlength="450" title="Perform a quick search on ScienceDirect"><input type="submit" class="submit" value="" title="Submit quick search">
+            
+            <a class="advanced S_C_advanced" href="http://www.sciencedirect.com/science/search">Advanced search</a>
+            </form>
+        </div>
+    </fieldset>
+</div>
+<div class="clear"></div>
+<div id="erToolbar"></div>
+
+
+<div style="color : #FF0000; font-weight : bold;border:0px solid red;">
+  
+  
+  
+  
+</div>
+
+
+
+
+
+    </div>
+    <div id="articleToolbarDummy"></div>
+  <div style="clear:both;"></div>
+  
+  <div id="leftPane" class="column small" aria-label="table of contents" role="navigation" style="height: 158px; ">
+    <div id="leftPaneInner" style="height: 158px; ">
+        <div>
+        <div id="leftButton" class="small">
+            <ul>
+                <li class="tocbutton">
+                    <a class="outline-toggle" title="Open to view article outline" alt="Open to view article outline" href="#" aria-expanded="false">
+                        <span class="icon outline_big"></span>
+                    </a>
+                </li>
+            </ul>
+        </div>
+        <div id="outlineContainer" class="small">
+            <a class="closeBt" title="Close">&nbsp;</a>
+            <div id="outline" class="outline" data-st="0" style="top: 0px; "><div id="olGraphCbBox" style="width: 232px; "><div class="outlineMsg">This document does not have an outline.</div><ul id="itemOutline"></ul><script>prs.rt('scr_toc')</script></div>
+              <script type="text/javascript" style="width: 244px; ">
+              document.write("<div class='outlineMsg'>Article outline is loading...</div>");
+              </script>
+              <noscript style="width: 244px; ">
+              &lt;div class="infoMsg"&gt;
+              &lt;div style="float: left; width: 20px; "&gt;&lt;img border="0" src="http://cdn.els-cdn.com/sd/alertIcon.gif" valign="top" alt="Alert message"&gt;&lt;/div&gt;
+              &lt;div style="padding-left:25px;"&gt;JavaScript is disabled on your browser. &lt;br&gt;&lt;div style="padding-top:10px;"&gt;
+              Please enable JavaScript to use all the features on this page.&lt;/div&gt;&lt;/div&gt;
+              &lt;/div&gt;
+              </noscript>
+            <div id="articleLeftAd" class="adBlock" style="width: 244px; height: 665px; "><hr style="margin-left:12px;"><div class="adText">ADVERTISEMENT<div class="closeBt"><a href="#" title="Close Advertisement">&nbsp;</a></div></div><iframe scrolling="no" frameborder="0" border="0" cellspacing="0" src="/science/advertisement/left/num/476905/mainCat/general/cat/general/acct/ddd49027ac058c4db14dac8cc0563abc/isn/10766332/doi/10.1016_j.acra.2012.04.007/page/article/artOAstatus/N" style="height: 600px; "></iframe></div></div>
+        </div>
+        </div>
+    </div>
+  </div>
+  <div id="centerPane" class="column" tabindex="-1">
+    <div class="topBorder"></div>
+    <div id="centerContent" class="centerContent">
+    <div id="centerInner" class="centerInner svBigBox" aria-label="Article" role="main">
+        
+      
+      <noscript>
+      &lt;div class="msgBox" style="margin-top:10px;"&gt;
+          &lt;span class="errMsg"&gt;
+            &lt;div&gt;JavaScript is disabled on your browser.  Please enable JavaScript to use all the features on this page. This page uses JavaScript to progressively load the article content as a user scrolls. Click the View full text link to bypass dynamically loaded article content. &lt;a rel="nofollow" href="http://www.sciencedirect.com/science/article/pii/S1076633212002176?np=y"&gt;View full text&lt;/a&gt;&lt;/div&gt;
+         &lt;/span&gt;
+      &lt;/div&gt;&lt;br/&gt;
+      </noscript>
+      <div class="head headTemplate page_fragment_ind">
+
+  
+<div class="publisherLogo">
+  <span class="spElsevierPubIcon"></span>
+</div>
+
+
+  
+    <!--?xml version="1.0" encoding="UTF-8"?--><div xmlns:bk="http://www.elsevier.com/xml/bk/dtd" class="publicationHead"><div class="title"><a title="Go to Academic Radiology on ScienceDirect" href="/science/journal/10766332" querystr="?zone=centerPane" class="cLink"><span>Academic Radiology</span></a></div><p class="volIssue"><a class="S_C_volIss" title="Go to table of contents for this volume/issue" href="/science/journal/10766332/19/7">Volume 19, Issue 7</a>, July 2012, Pages 777–778</p></div>
+  
+    <div class="publicationCover cover2">
+    
+      
+    <a querystr="?zone=publicationLogo" class="cLink" href="/science/journal/10766332/19/7">
+      
+    
+    <img alt="Cover image" src="http://ars.els-cdn.com/content/image/1-s2.0-S1076633211X00181-cov150h.gif" class="toprightlogo">
+    <noscript>&lt;img alt="Cover image" src="http://ars.els-cdn.com/content/image/1-s2.0-S1076633211X00181-cov150h.gif" class="toprightlogo" /&gt;</noscript>
+    </a>
+    
+  </div>
+
+
+</div>
+
+      <div id="frag_1" class="page_fragment auth_frag" data-first="true" data-fid="1"><div id="" class="publicationType"><span id="">Guest editorial</span></div><div class="module_topic_paths"></div><h1 class="svTitle" id="">Writing a Clinically Appraised Topic Is a Team Sport</h1><ul class="authorGroup noCollab svAuthor" style="display: inline; "><li class="smh5"><a href="#" class="authorName svAuthor" data-orcid="" id="authname_N6dbdde60N6dc256bc" data-t="a" data-fn="Carolyn M." data-ln="Rutter" data-pos="1" data-tb="">Carolyn M. Rutter</a>, <span class="authorDegrees">PhD</span>, </li><li class="smh5"><a href="#" class="authorName svAuthor" data-orcid="" id="authname_N6dbdde60N6dc256f8" data-t="a" data-fn="Susan M." data-ln="Shortreed" data-pos="2" data-tb="">Susan M. Shortreed</a>, <span class="authorDegrees">PhD</span></li></ul><!--VALIDHTML--><ul class="affiliation authAffil smh" style="display: block; "><li class="smh5plus" style=""> <span id="">Group Health Research Institute, 1730 Minor Ave., Suite 1600, Seattle, WA 98103</span></li></ul><!--VALIDHTML--><!--VALIDHTML--><div id="currtAsOf"></div><dl class="articleDates smh" style="display: block; "><dd>Received 12 April 2012, Accepted 13 April 2012, Available online 15 June 2012</dd></dl><!--VALIDHTML--><div id="showMoreButtons"><a class="showLess moreLink" style="display: none; "><span class="CollapseText" style="display: none; ">&nbsp;</span><span class="showInfo expand open" title="Show more author and article information">Show more</span></a><a class="showLess lessLink" style="display: inline; "><span class="ExpandText" style="display: inline-block; ">&nbsp;</span><span class="showInfo collapse" title="Hide more author and article information">Show less</span></a></div><div id="ppvPlaceHolder" class=""><div class="accessTitle">Choose an option to locate/access this article:</div><div class="accessContent clearfix"><div class="acol1"><div style="margin-bottom:5px;">Check if you have access through your login credentials or your institution</div><a title="Click to see if you have full text access" class="corpReq cLink blueButton" querystr="?_fmt=full" href="http://www.sciencedirect.com/science/article/pii/S1076633212002176">Check access</a></div><div class="vdivider"></div><div class="acol2"><a class="purchaseSprite cLink" querystr="?_origin=article" href="/science?_ob=ShoppingCartURL&amp;_method=add&amp;_eid=1-s2.0-S1076633212002176&amp;originContentFamily=serial&amp;_origin=article&amp;_ts=1481806180&amp;md5=3073bafa76fdaf5c39a8ce882d416e04"><div class="artPurchase"><div></div><span>Purchase&nbsp;$35.95</span></div></a><div class="ppvmsg"><span id="deepdyve" style="display:none">
+  <a id="dd_href" target="DeepDyve" href=""></a>
+</span></div></div><div class="vdivider"></div><div class="acol3"><ul><li class="outLinks"><a class=" cExLink S_C_outLinks" href="http://linkinghub.elsevier.com/retrieve/pii/S1076633212002176?showall=true" data-url="/science/RedirectURL?_method=outwardLink&amp;_partnerName=19979&amp;_eid=1-s2.0-S1076633212002176&amp;_pii=S1076633212002176&amp;_origin=article&amp;_zone=centerPane&amp;_targetURL=http://linkinghub.elsevier.com/retrieve/pii/S1076633212002176?showall%3Dtrue" target="_blank" title="Get Full Text Elsewhere"><img onload="DynamicArtContent.checkOLImage(this)" class="outImg" src="http://www.sciencedirect.com/scidirimg/gw_rtn_ihub.gif" border="0"></a></li></ul></div></div></div><script>prs.rt('scr_ppv')</script><!--VALIDHTML--><dl class="extLinks nonEmpty"><dd class="doiLink"><dd class="doi"><a id="ddDoi" class="S_C_ddDoi" href="http://dx.doi.org/10.1016/j.acra.2012.04.007" target="doilink" onclick="var doiWin; doiWin=window.open('http://dx.doi.org/10.1016/j.acra.2012.04.007','doilink','scrollbars=yes,resizable=yes,directories=yes,toolbar=yes,menubar=yes,status=yes'); doiWin.focus()">http://dx.doi.org/10.1016/j.acra.2012.04.007</a></dd></dd><dd class="rightsLink linkRender"><a class=" cExLink S_C_outLinks" href="https://s100.copyright.com/AppDispatchServlet?publisherName=ELS&amp;contentID=S1076633212002176&amp;orderBeanReset=true" data-url="/science/RedirectURL?_method=outwardLink&amp;_partnerName=936&amp;_eid=1-s2.0-S1076633212002176&amp;_pii=S1076633212002176&amp;_origin=article&amp;_zone=art_page&amp;_targetURL=https://s100.copyright.com/AppDispatchServlet?publisherName%3DELS%26contentID%3DS1076633212002176%26orderBeanReset%3Dtrue" target="_blank" title="Get rights and content"><span class="outText">Get rights and content</span></a></dd></dl><div class="moreInformation"><dl class="citation"></dl></div><div class="articleOAlabelForced"></div><div id="refersToAndreferredToBy"><dl id="referredToBy" class="documentThread"><!--Referred To By--></dl></div><!--FRAGMENTEND--><div class="page_fragment_ind auth_frag" data-id="frag_2"></div></div><div id="frag_2" class="page_fragment" data-fid="2"><!--VALIDHTML--><div id="embeddedPDF" style="display:none"></div><script>prs.rt("abs_end");</script><div id="SD_BA1P" class="sgfNoTitleBar sgfNoGadgetBorder svDoNotLink ui-sortable"></div><!--VALIDHTML--><div class="artEcomponent"></div><div class="artFooterContent"><!--footerNotes--></div><!--VALIDHTML--><p class="copyright">Copyright © 2012 AUR. Published by Elsevier Inc. All rights reserved.</p><!--VALIDHTML--><div class="page_fragment_ind" data-id="frag_3"></div></div><div data-last="true" class="page_fragment" id="frag_3" data-fid="3"></div>
+
+               
+
+       
+   
+        
+    </div>
+    <div id="footer-area-dummy"></div>
+	
+        <div class="ccs-component">
+            <div class="Footer" role="contentinfo"><div class="els-footer"><div class="els-footer-body"><a class="els-footer-elsevier" href="http://www.elsevier.com/" rel="nofollow" target="_blank"><span class="ccs-icon svg-wordmark-elsevier" aria-label="Elsevier"><span class="svg-text">Elsevier</span></span></a><div class="els-footer-content"><div class="els-footer-links"><a class="link-inherit" href="http://www.elsevier.com/solutions/sciencedirect" rel="nofollow" target="_blank">About ScienceDirect</a><wbr><a class="link-inherit" href="/science/activateaccess" rel="nofollow" target="_blank">Remote access</a><wbr><a class="link-inherit" href="/science?_ob=ShoppingCartURL&amp;_method=display&amp;_zone=TopNavBar&amp;_origin=article&amp;md5=98a3e89aa38c5044516e5e4ca8b64e74" rel="nofollow" target="_blank">Shopping cart</a><wbr><a class="link-inherit" href="/science/contactus" rel="nofollow" target="_blank">Contact and support</a><wbr><a class="link-inherit" href="https://www.elsevier.com/legal/elsevier-website-terms-and-conditions" rel="nofollow" target="_blank">Terms and conditions</a><wbr><a class="link-inherit" href="http://www.elsevier.com/legal/privacy-policy" rel="nofollow" target="_blank">Privacy policy</a></div><div class="els-footer-cookie">Cookies are used by this site. For more information, visit the <a class="link-blue" href="https://www.elsevier.com/solutions/sciencedirect/support/cookies" rel="nofollow" target="_blank">cookies page</a>.</div><div class="els-footer-copyright">Copyright © <span class="copyright-year">2016</span> Elsevier B.V. or its licensors or contributors. ScienceDirect ® is a registered trademark of Elsevier B.V.</div></div></div><div class="els-footer-relx-group"><a class="els-footer-relx" href="http://www.relx.com/" rel="nofollow" target="_blank"><span class="ccs-icon svg-wordmark-relx-group" aria-label="RELX Group"><span class="svg-text">RELX Group</span></span></a></div></div></div>
+        </div>
+    
+    </div>
+ </div>
+ <div id="rightPane" class="column" aria-label="Related content" role="complementary" style="width: 297px; ">
+  <div id="rightOuter" class="rightOuter" style="height: 776px; ">
+    <div id="rightInner" class="rightInner">
+       <div class="innerPadding">
+
+    <div id="SD_BIB" class="hidden entry separator appBox sgfNoTitleBar sgfNoGadgetBorder ui-sortable" style=""></div>
+ 
+
+    
+    
+        <div id="recommend_related_articles" class="entry separator related rendered firstBlk">
+            
+                <h2><a href="#articles" class="toggle" aria-controls="relArtList" aria-expanded="true"><span class="iconArrow">&nbsp;</span>Recommended articles</a></h2>
+             
+             <ol id="relArtList"><li><ol class="articles"><li class="artTitle"><a title="How to Write a Critically Appraised Topic (CAT)" href="/science/article/pii/S1076633212000918" class="cLink S_C_artTitle" querystr="?_origin=article&amp;_zone=citeRelatedArt&amp;panel=citeRelatedArt&amp;_piiSuggestedFrom=S1076633212002176&amp;_srcFr=EPFL" style="text-overflow: ellipsis; overflow-x: hidden; overflow-y: hidden; white-space: nowrap; ">How to Write a Critically Appraised Topic (CAT)</a></li><li class="srcTitle" style="text-overflow: ellipsis; overflow-x: hidden; overflow-y: hidden; white-space: nowrap; ">2012, Academic Radiology<div class="moreInfo"><a data-url="http://www.sciencedirect.com/science/more/S1076633212000918/2/issn/10766332" class="toggleMoreInfo">more</a></div></li><li class="showMore hidden"><div class="moreInfoContent"><ol class="details"><li>Gelareh Sadigh, , Robert Parker, , Aine Marie Kelly, , Paul Cronin, </li><li class="title">How to Write a Critically Appraised Topic (CAT)</li><li class="fullSrcTitle">Academic Radiology, Volume 19, Issue 7, July 2012, Pages 872–888</li><li class="docSubType">Review Article</li><div class="abs"></div><ul class="links"><li class="clearfix pdf"><div class="icon_pdf"><a rel="nofollow" title="Download PDF" target="_blank" class="cLink pdfRightPaneLink" href="/science/article/pii/S1076633212000918/pdfft?md5=d302921ef387b03dfe9685b0c5ce3d1f&amp;pid=1-s2.0-S1076633212000918-main.pdf" querystr="?_origin=article&amp;_zone=citeRelatedArt&amp;panel=citeRelatedArt&amp;_piiSuggestedFrom=S1076633212002176&amp;_srcFr=EPFL"> PDF (595 K)</a><div id="entitlement" class="checkEntitlement" style="display:none"></div></div></li></ul></ol></div></li></ol></li><li><ol class="articles"><li class="artTitle"><a title="Puesta al día en clínica: Noticias / Actualizaciones / Investigaciones" href="/science/article/pii/S0212538212712049" class="cLink S_C_artTitle" querystr="?_origin=article&amp;_zone=citeRelatedArt&amp;panel=citeRelatedArt&amp;_piiSuggestedFrom=S1076633212002176&amp;_srcFr=EPFL" style="text-overflow: ellipsis; overflow-x: hidden; overflow-y: hidden; white-space: nowrap; ">Puesta al día en clínica: Noticias / Actualizaciones / Investigaciones</a></li><li class="srcTitle" style="text-overflow: ellipsis; overflow-x: hidden; overflow-y: hidden; white-space: nowrap; ">2012, Nursing (Ed. española)<div class="moreInfo"><a data-url="http://www.sciencedirect.com/science/more/S0212538212712049/2/issn/02125382" class="toggleMoreInfo">more</a></div></li><li class="showMore hidden"><div class="moreInfoContent"><ol class="details"><li class="title">Puesta al día en clínica: Noticias / Actualizaciones / Investigaciones</li><li class="fullSrcTitle">Nursing (Ed. española), Volume 30, Issue 7, August–September 2012, Pages 33–35</li><div class="abs"></div><ul class="links"><li class="clearfix pdf"><div class="icon_pdf"><a rel="nofollow" title="Download PDF" target="_blank" class="cLink pdfRightPaneLink" href="/science/article/pii/S0212538212712049/pdfft?md5=d7e6daf9f656ae53de55e9de4d97dba5&amp;pid=1-s2.0-S0212538212712049-main.pdf" querystr="?_origin=article&amp;_zone=citeRelatedArt&amp;panel=citeRelatedArt&amp;_piiSuggestedFrom=S1076633212002176&amp;_srcFr=EPFL"> PDF (1355 K)</a><div id="entitlement" class="checkEntitlement" style="display:none"></div></div></li></ul></ol></div></li></ol></li><li><ol class="articles"><li class="artTitle"><a title="Innovations in papermaking: An LCA of printing and writing paper from conventional and high yield pulp" href="/science/article/pii/S0048969712012132" class="cLink S_C_artTitle" querystr="?_origin=article&amp;_zone=citeRelatedArt&amp;panel=citeRelatedArt&amp;_piiSuggestedFrom=S1076633212002176&amp;_srcFr=EPFL" style="text-overflow: ellipsis; overflow-x: hidden; overflow-y: hidden; white-space: nowrap; ">Innovations in papermaking: An LCA of printing and writing paper from conventional and high yield pulp</a></li><li class="srcTitle" style="text-overflow: ellipsis; overflow-x: hidden; overflow-y: hidden; white-space: nowrap; ">2012, Science of The Total Environment<div class="moreInfo"><a data-url="http://www.sciencedirect.com/science/more/S0048969712012132/2/issn/00489697" class="toggleMoreInfo">more</a></div></li><li class="showMore hidden"><div class="moreInfoContent"><ol class="details"><li>B.M. Krishna Manda, , Kornelis Blok, , Martin K. Patel, </li><li class="title">Innovations in papermaking: An LCA of printing and writing paper from conventional and high yield pulp</li><li class="fullSrcTitle">Science of The Total Environment, Volume 439, 15 November 2012, Pages 307–320</li><li class="docSubType">Original Research Article</li><div class="abs"></div><ul class="links"><li class="clearfix pdf"><div class="icon_pdf"><a rel="nofollow" title="Download PDF" target="_blank" class="cLink pdfRightPaneLink" href="/science/article/pii/S0048969712012132/pdfft?md5=48c813710461d25ec216ae2ccfb5e008&amp;pid=1-s2.0-S0048969712012132-main.pdf" querystr="?_origin=article&amp;_zone=citeRelatedArt&amp;panel=citeRelatedArt&amp;_piiSuggestedFrom=S1076633212002176&amp;_srcFr=EPFL"> PDF (2446 K)</a><div id="entitlement" class="checkEntitlement" style="display:none"></div></div></li></ul></ol></div></li></ol></li><li><a href="http://www.sciencedirect.com/science/recommended-articles/S1076633212002176" class="viewMoreArticles cLink">View more articles »</a></li></ol>
+        </div><script>prs.rt('scr_rec_art')</script>
+    
+    
+    
+        <div id="cited_by_articles" class="entry separator related closed">
+            <h2><a href="#articles" class="toggle" aria-controls="relArtList" aria-expanded="false"><span class="iconArrow">&nbsp;</span>Citing articles (<span id="hitcount">0</span>)</a></h2>
+            <ol id="citedByList"><li class="note"><p>This article has not been cited.</p></li></ol> 
+        </div>
+    
+    
+    
+        <div id="SD_CRA" class="hidden entry separator appBox sgfNoTitleBar sgfNoGadgetBorder ui-sortable" style=""></div>  
+    
+    
+        
+            <div id="related_book_content" class="entry separator related closed">
+                <h2><a href="#articles" class="toggle" aria-controls="relArtList" aria-expanded="false"><span class="iconArrow">&nbsp;</span>Related book content</a></h2>
+                <ol id="relBkList"><li class="note" style="margin-left:15px;"><p>No articles found.</p></li></ol>
+            </div>
+        
+     
+    
+        <div id="metrics" class="entry separator rendered related" style="display: block; ">
+            <h2><a id="metrics_info" aria-expanded="true" aria-controls="metrics" class="toggle" href="#articles"><span class="iconArrow">&nbsp;</span>Metrics</a></h2>
+            <div id="metric_details"><a class="badge" target="_blank" href="http://www.altmetric.com/details.php?template=sciencedirect&amp;doi=10.1016/j.acra.2012.04.007" title="Altmetric score of 1. Open Altmetric details page"><img width="120px" height="18px" style="border:0; margin:0;" src="https://altmetric-badges.a.ssl.fastly.net/?size=100&amp;score=1&amp;types=tttttttt&amp;style=bar" alt="Altmetric score of 1. Open Altmetric details page"><span class="score">1</span> </a><div class="metrichelp"><a aria-describedby="metrics_info" href="/science?_ob=HelpURL&amp;_file=metrics.htm" target="sdhelp" title="Help (Opens new window)" onclick="var helpWin; helpWin=window.open('/science?_ob=HelpURL&amp;_file=metrics.htm','sdhelp','scrollbars=yes,resizable=yes,directories=no,toolbar=no,menubar=no,status=no,width=984,height=738'); helpWin.focus()" class="noul icon_qmarkHelpsci_dir">Help</a></div><ul class="metric_list"><li class="details" style="border-left: 9px solid #74CFED;">1 Tweeter</li></ul><div class="metric_references"> <div><h3>Saved to reference managers</h3></div><ul class="metric_refence_list"><li class="details" style="border-left: 9px solid #A60000;">4 Mendeley readers</li></ul></div><div class="moreMetricDetails"> <a aria-describedby="metrics_info" aria-haspopup="true" href="http://www.altmetric.com/details.php?template=sciencedirect&amp;doi=10.1016/j.acra.2012.04.007">View more details »</a></div></div>
+        </div>
+     
+
+
+
+    
+        <div class="appContainerDummy"></div>
+        <div class="appContainer js_application_content" data-scroll="0">
+            <ul class="hidden" id="dataRepHolder"></ul>
+            
+                <div id="SD_AT1P" class="boxLink sgfNoTitleBar sgfNoGadgetBorder ui-sortable"><div id="SD_AT1P_299100" class="containerApplOver invisible"><div id="remote_iframe_0_userPrefsDialog" style="display: none;z-index: 10; left: 0px;top:0px;border: 1px solid #CDF0A4;border-top:0px ;font: smaller;background-color:#EEF7E3; width:99%;font-weight:bold;" class=""></div><div id="maincontremote_iframe_0" style="display:;border-style:none ;border-top:" class="containerAppDetails "><iframe id="remote_iframe_0" onload="sgf.killTimer('299100', 'SD_AT1P');" name="remote_iframe_0" src="http://sciverse-shindig.elsevier.com/gadgets/ifr?container=default&amp;mid=0&amp;nocache=1&amp;country=ALL&amp;lang=ALL&amp;view=profile&amp;parent=http%3A%2F%2Fwww.sciencedirect.com%2Fscience%2Farticle%2Fpii%2FS1076633212002176%3A%2F%2Fwww.sciencedirect.com&amp;up_SiteCatalyst=http%3A%2F%2Fcdn.els-cdn.com%2Fgadgets%2Fprod%2Fjs%2Fv3%2Fs_code_1.js&amp;up_Beacon=http%3A%2F%2Fcdn.els-cdn.com%2Fgadgets%2Fprod%2Fjs%2Fv1%2Fs_beacon.js&amp;up_gadgetId=299100&amp;up_startMeInvisible=y&amp;st=john.doe:john.doe:appid:cont:url:0:default&amp;url=http%3A%2F%2Fae-content.elsevier.com%2Fsvapp%2F299100%2Fprod%2Fprivate%2Fspec.xml#rpctoken=608587617" style=" align: left;text-align: left;" "="" frameborder="no" scrolling="auto" height="" width="100%"></iframe></div></div></div>
+            
+
+            
+                <div id="SD_FTA1" class="boxLink sgfHorToolbar sgfShowMyApps sgfShowMoreLessApps"><div id="sciverse_toolbar" class="sgfSciverseHoriToolBar">	<div class="toolbarfoot">		<div class="toolbarBodyHorizontal" id="toolbarBody">			<div id="toolbar_SD_FTA1" class="sgfInnerToolbar ui-sortable" style="width: 97%; min-height: 155px; text-align: center; margin: 5px auto;"></div>			<div id="showMoreApps">				<a onclick="showMore()" class="plusSign">+</a>				<a id="showMore" onclick="showMore()" class="showMoreLessApps" title="Show more applications">Show more applications</a>			</div>			<div id="showLessApps">				<a onclick="showLess()" class="plusSign">-</a>				<a id="showFew" onclick="showLess()" class="showMoreLessApps" title="Show fewer applications">Show fewer applications</a>			</div>		</div>	</div></div><div class="sgfToolBarToggleImage" style="display: none; ">	<div id="sgfSlideBar" class="sgfSideCollapse" onmouseout="sgfToggleToolBarOut();" onmouseover="sgfToggleToolBarOver();" title="undefined"></div>	<div class="clear"></div></div></div>
+            
+        </div>
+    
+
+
+</div>
+
+<div class="js_workspace_content popup" aria-live="polite" role="region" aria-label="Overlay" aria-describedby="skuip-3">
+    <a aria-label="close overlay" title="close overlay" alt="close overlay" href="#" id="buttonClose" role="button" class="closeBt">&nbsp;</a>
+    <div class="scrollArea"><div id="workSpaceView"></div></div>
+</div>
+
+    </div><!--rightInner-->
+  </div><!--rightOuter-->
+ </div><!--rightPane-->
+</div><!--page-area-->
+
+
+
+<div style="clear:both;"></div>
+
+<form name="citationInfo" id="citationInfo" method="POST" action="">
+    <input type="hidden" name="art_citation" value="">
+</form>
+
+
+<script src="http://cdn.els-cdn.com/sd/js/sdX_1612R2.js"></script>
+
+
+
+
+<script src="http://cdn.els-cdn.com/sd/js/sd_1612R2.js"></script>
+
+
+
+<script src="http://cdn.els-cdn.com/sd/js/pa_1612R2.js"></script>
+
+
+<script>
+var sciverse="empty";
+var SDM=new Object;
+SDM.tm=new Object;
+SDM.tm.ahm='h'
+
+
+
+SDM.ep=new Object;
+SDM.ep.downloadCsvURL = "http://services.elsevier.com/SDWebExport/export/table/csv";
+SDM.ep.downloadActionURL = "http://www.sciencedirect.com/science/downloadActions/keyEvent/S1076633212002176/10766332";
+SDM.ep.gigyaLib="//cdn.gigya.com/JS/socialize.js?apiKey=3__Bt7bHrGM8mjKPwBuOVjWyMi678aF6-PewcnoHJJ6UR1fS5t9NG9RBbKHjE0oA6J";
+SDM.ep.imgUrlPrefix = "http://ars.els-cdn.com/content/image/";
+SDM.ep.thumbimgUrlPrefix = "http://ars.els-cdn.com/content/thumbimage/";
+SDM.ep.mendeleyJS = "https://www.mendeley.com/minified/bookmarklet.js";
+SDM.ep.enableUsabillaMsg = "Y";
+SDM.ep.ref2ref2by = "http://www.sciencedirect.com/science/relLink/ajaxReq?_eid=1-s2.0-S1076633212002176";
+SDM.ep.staticImgUrlPrefix = "http://cdn.els-cdn.com/sd";
+SDM.ep.urlPrefix = "http://www.sciencedirect.com/science";
+SDM.ep.urlQualifier = "science";
+SDM.ep.urlScheme = "http://www.sciencedirect.com";
+SDM.ep.userActionURL = "http://www.sciencedirect.com/science/UserActions";
+ SDM.helpUrlDomain = "#";
+
+
+
+
+SDM.pm=new Object;
+SDM.pm.cid = '272938';
+SDM.pm.contentFamily = "serial";
+SDM.pm.contentType = "JL";
+SDM.pm.coverDate = '31-Jul-2012';
+
+SDM.pm.doi = '10.1016/j.acra.2012.04.007';
+
+SDM.doi = '10.1016/j.acra.2012.04.007';
+SDM.pm.eid = '1-s2.0-S1076633212002176';
+SDM.pm.entitled = false;
+ SDM.pm.hubEid = '1-s2.0-S1076633211X00181'; 
+SDM.pm.indexType = '';
+SDM.pm.issnisbn = "10766332";
+
+SDM.pm.itemWeight = 'FULL-TEXT';
+SDM.pm.mod_cid="";
+SDM.pm.mod_srcTitle="";
+SDM.pm.mod_ISBN = "";
+SDM.pm.pdfEid = '1-s2.0-S1076633212002176-main.pdf';
+SDM.pm.pdfSize = '37048';
+SDM.pm.pii = 'S1076633212002176';
+SDM.pm.prodColor="sci_dir";if(SDM.pm.prodColor=="sci_dir")SDM.pm.prodColor="";
+ SDM.pm.rev = '20150515T050336738895'; 
+ SDM.pm.hrev = 'vH.12'; 
+ SDM.pm.pptURL = 'http://services.elsevier.com/SDWebExport/export/figure/'; 
+
+SDM.pm.altmetric_avail = 'TRUE';
+SDM.pm.altmetric_helpurl = '/science?_ob=HelpURL&_file=metrics.htm';
+
+
+
+
+SDM.pf = new Object;
+SDM.pf.pdfAvail = true;
+SDM.pf.reqAllFrags = true;
+ SDM.pf.maxElemsAllFrags = 12000
+SDM.pf.relatedBkAvail=true;
+SDM.pf.mlktAvail = true;
+SDM.pf.hpccAvail = true;
+SDM.pf.blkSocialLogins=true;
+
+
+SDM.browserUserMsg=true;
+
+
+SDM.pf.citedByScAvail = true;
+SDM.pf.aetEnabled = false;
+
+ SDM.pf.pdfMenuAvail=false; 
+
+
+SDM.pf.ads = new Object;
+SDM.pf.ads.leftUrl="/science/advertisement/left/num/476905/mainCat/general/cat/general/acct/ddd49027ac058c4db14dac8cc0563abc/isn/10766332/doi/10.1016_j.acra.2012.04.007/page/article/artOAstatus/N";
+
+
+
+
+SDM.pf.dc = new Object;
+SDM.pf.dc.retry = 10;
+SDM.pf.dc.retryDelay = 300;
+SDM.pf.dc.retryFactor = 1.0;
+SDM.pf.dc.respObj = '';
+
+
+SDM.pf.er = new Object();
+
+
+
+
+
+
+SDM.pf.frag = new Object();
+SDM.pf.frag.fat = '404cac5ad6345772f0d9e25115cf75743ead6d204e783862356986301eec2362a6ee6b20ac45c2637ef6bc3666a0047fd5a3de4b7a6ffe981de73822044d96446270886aca0c745aa96822bbe29a0e450cd74d5017b9f730ebe9d1785dc3a3175cae127996a70fbf45a866540b932de527db78844195e8497de0146672294c2898a967ab08fb0e87a1f34d4e5dad203a07b5ddc654f76a87';
+SDM.pf.frag.mapRetry = 20;
+SDM.pf.frag.mapRetryDelay = 2000;
+SDM.pf.frag.mapRetryFactor = 1.1;
+SDM.pf.frag.retry = 5;
+SDM.pf.frag.retryDelay = 2000;
+SDM.pf.frag.foldFactor = 1.5;
+SDM.pf.frag.hashWait = 5000;
+
+
+
+
+
+
+SDM.pf.gadget = new Object();
+SDM.pf.gadget.displayGadgets=true;
+SDM.pf.gadget.sciverseUrlPfx="http://www.sciencedirect.com";
+SDM.pf.gadget.sciverseJsonObject='';
+SDM.pf.gadget.sciverseGadgetDetailsID = "";
+SDM.pf.gadget.svShindigLib="http://sciverse-shindig.elsevier.com/gadgets/js/shindig-container:pubsub-2.js?c=1";
+SDM.pf.gadget.svSciverseLib="http://www.sciencedirect.com/gadgetservices/gadgets/v9/js/SciverseShindigService,GadgetToolBar,jquery-outside,jquery.ba-bbq.min,SciverseShindigContainer,ScienceDirectShindigServices.js";
+
+
+
+SDM.pf.mrwmod = new Object();
+SDM.pf.mrwmod.breadCrumbPathURL = "http://www.sciencedirect.com/science/module/breadCrumbPaths/isbn//pii/S1076633212002176";
+
+SDM.pf.mrwmod.ldrAvail = true;
+
+
+ 
+
+
+SDM.pf.oa = new Object();
+
+
+
+
+
+
+
+
+SDM.pf.ref = new Object();
+SDM.pf.ref.bs = 20;
+SDM.pf.ref.citedByURL = "http://www.sciencedirect.com/science/referenceResolution/ajaxRefResol?_updateCitedBy=";
+SDM.pf.ref.fd = 300;
+
+SDM.pf.ref.resolveURL = "http://www.sciencedirect.com/science/referenceResolution/ajaxRefResol?_pii=S1076633212002176&_refCnt=0&_docType=simple-article";
+
+
+
+
+
+SDM.pf.toc=new Object;
+SDM.pf.toc.retry = 20;
+SDM.pf.toc.retryDelay = 1000;
+SDM.pf.toc.retryFactor = 1.09;
+SDM.pf.toc.outlineGraphics = false;
+SDM.pf.toc.outlineTab = "";
+
+SDM.pf.toc.urlTOCLink="http://www.sciencedirect.com/science/article/pii/S1076633212002176";
+SDM.pf.toc.urlTOCLinkQueryStr="?_rdoc=1&_fmt=full&_origin=&md5=22543fb95e34d36391c44b9d9cd72533";
+
+SDM.pf.ddm = new Object();
+SDM.pf.ddm.endpoint = "http://services.elsevier.com/SDWebExport/export/pdfdownload/pdf";
+
+
+
+
+
+
+SDM.si = new Object();
+SDM.si.webUserId = "12975512";
+SDM.si.sds = "a9381c77da944f1d12723a94ca9af8613e8991f15bfcf43fd91710a67b7ce6b5395d2adfc94d6ac8";
+SDM.si.euidCookieObject='6199b6be35f6e38a16bf24dc507fbac70a224964e875e770173332e4bddd65bf4f4398feebe9c9a0';
+
+SDM.pageTransKey = "12/15/2016 07:49:36 EST#1848_001#12598#221.178.200.219";
+SDM.pageType = "article_abs";
+SDM.tid = "ef455664-c2c4-11e6-8c6c-00000aab0f27";
+SDM.ud = "12975512||C000228598|291352|GUEST";
+SDM.ieVersion="8";
+
+SDM.dac = new Object;
+SDM.svapi = SVApi;
+
+</script>
+
+
+<script src="http://cdn.els-cdn.com/sd/js/importer-api_1612R2.js.min"></script>
+
+
+<script>
+
+initializeArticlePage();
+</script>
+
+
+
+
+<script type="text/javascript">/*{literal}<![CDATA[*/window.lightningjs||function(c){function g(b,d){d&&(d+=(/\?/.test(d)?"&":"?")+"lv=1");c[b]||function(){var i=window,h=document,j=b,g=h.location.protocol,l="load",k=0;(function(){function b(){a.P(l);a.w=1;c[j]("_load")}c[j]=function(){function m(){m.id=e;return c[j].apply(m,arguments)}var b,e=++k;b=this&&this!=i?this.id||0:0;(a.s=a.s||[]).push([e,b,arguments]);m.then=function(b,c,h){var d=a.fh[e]=a.fh[e]||[],j=a.eh[e]=a.eh[e]||[],f=a.ph[e]=a.ph[e]||[];b&&d.push(b);c&&j.push(c);h&&f.push(h);return m};return m};var a=c[j]._={};a.fh={};a.eh={};a.ph={};a.l=d?d.replace(/^\/\//,(g=="https:"?g:"http:")+"//"):d;a.p={0:+new Date};a.P=function(b){a.p[b]=new Date-a.p[0]};a.w&&b();i.addEventListener?i.addEventListener(l,b,!1):i.attachEvent("on"+l,b);var q=function(){function b(){return["<head></head><",c,' onload="var d=',n,";d.getElementsByTagName('head')[0].",d,"(d.",g,"('script')).",i,"='",a.l,"'\"></",c,">"].join("")}var c="body",e=h[c];if(!e)return setTimeout(q,100);a.P(1);var d="appendChild",g="createElement",i="src",k=h[g]("div"),l=k[d](h[g]("div")),f=h[g]("iframe"),n="document",p;k.style.display="none";e.insertBefore(k,e.firstChild).id=o+"-"+j;f.frameBorder="0";f.id=o+"-frame-"+j;/MSIE[ ]+6/.test(navigator.userAgent)&&(f[i]="javascript:false");f.allowTransparency="true";l[d](f);try{f.contentWindow[n].open()}catch(s){a.domain=h.domain,p="javascript:var d="+n+".open();d.domain='"+h.domain+"';",f[i]=p+"void(0);"}try{var r=f.contentWindow[n];r.write(b());r.close()}catch(t){f[i]=p+'d.write("'+b().replace(/"/g,String.fromCharCode(92)+'"')+'");d.close();'}a.P(2)};a.l&&setTimeout(q,0)})()}();c[b].lv="1";return c[b]}var o="lightningjs",k=window[o]=g(o);k.require=g;k.modules=c}({});
+window.usabilla_live = lightningjs.require("usabilla_live", "//w.usabilla.com/11e800d34be0.js");
+/*]]>{/literal}*/
+if(typeof SDM != "undefined") {
+  if(SDM.ud) { usabilla_live("data", {"custom": {"ud":SDM.ud} }); }
+  if(SDM.pf&&SDM.pf.oa) {
+    if(SDM.pf.oa.item) { usabilla_live("data", {"custom": {"open_access":SDM.pf.oa.item} });}
+    if(SDM.pf.oa.archive) { usabilla_live("data", {"custom": {"open_archive":SDM.pf.oa.archive} });}
+  }
+  if(SDM.pm&&SDM.pm.mod_cid) {
+    usabilla_live("data", {"custom": {"refmod_article":true} });
+  }
+  else {usabilla_live("data", {"custom": {"refmod_article":false} });}
+}
+</script>
+
+
+<div id="sdpa"></div>
+<script>SDPA.init();</script>
+<div id="appBackground"></div>
+<div id="appDialog" class="files" style="position: fixed; ">
+    <div id="header">
+     <div class="pdfSearchHeading"> Download PDFs
+    <span class="close" id="closeBtn" href="#" title="Close Search Results " alt="Close Search Results"><img src="http://cdn.els-cdn.com/sd/sci_dir/closeButton.png"></span>
+    </div></div>
+    <div id="contentBlk" class="view">
+        <div class="help_button" id="ddmMainHelp"><a class="ddmHelp" target="sdhelp" href="/science?_ob=HelpURL&amp;_file=DM_main.htm&amp;_btn=Y&amp;_zone=TopNavBar&amp;_origin=article" title="Help (Opens new window)" onclick="var helpWin; helpWin=window.open('/science?_ob=HelpURL&amp;_file=DM_main.htm&amp;_btn=Y&amp;_zone=TopNavBar&amp;_origin=article','sdhelp','scrollbars=yes,resizable=yes,directories=no,toolbar=no,menubar=no,status=no,width=984,height=738'); helpWin.focus(); return false">Help</a></div>
+        <div class="help_button" id="ddmNewformatHelp"><a class="ddmHelp" target="sdhelp" href="/science?_ob=HelpURL&amp;_file=DM_newformat.htm&amp;_btn=Y&amp;_zone=TopNavBar&amp;_origin=article" title="Help (Opens new window)" onclick="var helpWin; helpWin=window.open('/science?_ob=HelpURL&amp;_file=DM_newformat.htm&amp;_btn=Y&amp;_zone=TopNavBar&amp;_origin=article','sdhelp','scrollbars=yes,resizable=yes,directories=no,toolbar=no,menubar=no,status=no,width=984,height=738'); helpWin.focus(); return false">Help</a></div>
+        <div id="filesTemplate"></div>
+        <div id="namingTemplate"></div> 
+    </div>
+    <div class="footer"></div>
+</div>
+
+
+
+
+
+<script src="//assets.adobedtm.com/376c5346e33126fdb6b2dbac81e307cbacfd7935/satelliteLib-b7cfe8df39a4e5eec5536bba80e13f4b6fa0dd7c.js"></script><script src="http://assets.adobedtm.com/376c5346e33126fdb6b2dbac81e307cbacfd7935/scripts/satellite-565e008964746d4385002642.js"></script><iframe src="http://tpc.googlesyndication.com/safeframe/1-0-5/html/container.html" style="visibility: hidden; display: none; "></iframe>
+<script>
+
+
+var pageData=new Object;
+
+var page=new Object;
+page["businessUnit"]="ELS:RAP:ST";
+page["isProduction"]="true";
+page["language"]="en";
+page["name"]="product:journal:article";
+page["productName"]="SD";
+page["environment"]="prod";
+page["noTracking"]="false";
+page["loadTime"]="";
+page["loadTimestamp"]=Date.now().toString();
+page["type"]="CP-CA";
+pageData["page"]=page;
+
+var visitor=new Object;
+visitor["accessType"]="CSAS::ANON-GUEST:CSAS-GUEST";
+visitor["accountId"]="ae:228598";
+visitor["accountName"]="ae:ScienceDirect Guests";
+
+visitor["industry"]="";
+visitor["ipAddress"]="221.178.200.219";
+visitor["loginStatus"]="";
+visitor["sisId"]="";
+visitor["userId"]="ae:12975512";
+pageData["visitor"]=visitor;
+
+try { pageDataTracker.trackPageLoad(); }
+catch(e) { console.warn("There was an error loading or running Adobe DTM:\r\n ", e); }
+</script>
+
+
+
+<script src="//sdfestaticassets-us-east-1.sciencedirectassets.com/prod/63dd062bee499e82c7133c2835ed6271ce0d899c/client.js"></script>
+
+
+
+
+<div class="adsbox">&nbsp;</div><div id="sgfGhost" style="display: none; " class="ui-sortable"><div id="sgfGhost_299152" class="containerApplOver invisible"><div id="footergadgets-gadget-title-bar-1" class="curveBoxleftNormal ActiveGadget  sgfOpen"><img src="http://ae-content.elsevier.com/svapp/icon.jpg" border="none" class="headingGadgetIcon " title="Entitle Gadget"><h3 title="Move Application" id="GadgetName1" class="elsevierTimeLOver truncateTitle">Entitle Gadget</h3><div id="Controls_1" class="Controls menuControlParent" align="right"><ul class="menu"><li class="menuControls"> <a href="javascript:void(0);" onclick="shindig.container.getGadget(1).handleToggle(this);"><div id="toggleBtn_1" class="sprite-close openCloseBtn" title="Close This Application" style="background-image: url('http://www.sciencedirect.com/gadgetservices/gadgets/v8/images/gsframeworksprite.png');"></div></a></li><li class="menuControls"><a href="javascript:void(0);" id="button-remote_iframe_1_userPrefsDialog" onclick="shindig.container.getGadget(1).openMenuOptions();return false;"><div class="sprite-options" title="Open Options" style="background-image: url('http://www.sciencedirect.com/gadgetservices/gadgets/v8/images/gsframeworksprite.png');"></div></a></li><ul class="submenu" id="sb-remote_iframe_1_userPrefsDialog"></ul></ul></div><div id="Close_1" class="Controls_close" style="display:none;"><a href="javascript:shindig.container.getGadget(1).closeGadget();"><div class="sprite-close_hoover" title="Close" style="background-image: url('http://www.sciencedirect.com/gadgetservices/gadgets/v8/images/gsframeworksprite.png');"></div></a></div></div><div id="remote_iframe_1_userPrefsDialog" style="display: none;z-index: 10; left: 0px;top:0px;border: 1px solid #CDF0A4;border-top:0px ;font: smaller;background-color:#EEF7E3; width:99%;font-weight:bold;" class=""></div><div id="maincontremote_iframe_1" style="display:;border-style:solid ;border-top:" class="containerAppDetails "><iframe id="remote_iframe_1" onload="sgf.killTimer('299152', 'sgfGhost');" name="remote_iframe_1" src="http://sciverse-shindig.elsevier.com/gadgets/ifr?container=default&amp;mid=1&amp;nocache=1&amp;country=ALL&amp;lang=ALL&amp;view=profile&amp;parent=http%3A%2F%2Fwww.sciencedirect.com%2Fscience%2Farticle%2Fpii%2FS1076633212002176%3A%2F%2Fwww.sciencedirect.com&amp;up_startMeInvisible=y&amp;up_SiteCatalyst=http%3A%2F%2Fcdn.els-cdn.com%2Fgadgets%2Fprod%2Fjs%2Fv3%2Fs_code_1.js&amp;up_Beacon=http%3A%2F%2Fcdn.els-cdn.com%2Fgadgets%2Fprod%2Fjs%2Fv1%2Fs_beacon.js&amp;up_gadgetId=299152&amp;st=john.doe:john.doe:appid:cont:url:0:default&amp;url=http%3A%2F%2Fae-content.elsevier.com%2Fsvapp%2F299152%2Fprod%2Fprivate%2Fspec.xml#rpctoken=608587617" style=" align: left;text-align: left;" "="" frameborder="no" scrolling="auto" height="" width="100%"></iframe></div></div></div><div class="usabilla_live_button_container" tabindex="0" style="position:fixed;width:117px;height:34px;z-index:600;bottom:0px;right:2%"><iframe src="" style="width: 117px; height: 34px; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; border-top-width: 0px; border-right-width: 0px; border-bottom-width: 0px; border-left-width: 0px; border-style: initial; border-color: initial; overflow-x: hidden; overflow-y: hidden; z-index: 9998; position: absolute; left: 0px; top: 0px; box-shadow: 0px 0px 0px; background-color: transparent; " frameborder="0" marginwidth="0" marginheight="0" scrolling="no" data-tags="bottom" title="Usabilla Feedback Button"></iframe></div></body></html>
