@@ -54,7 +54,7 @@ class ScienceDirectCrawl():
 
 
         # 将数据导入数据库中
-        # td = ScienceDirectMysql("localhost", "root", "  ", "ScienceDirectInfo")
+        # td = ScienceDirectMysql("localhost", "root", "tw2016941017", "ScienceDirectInfo")
         # td.CreateTable('JournalsInfo')
         # with open('JournalsInfo.txt', 'r') as rd:
         #     ValueList = json.loads(rd.read())
@@ -120,7 +120,7 @@ class ScienceDirectCrawl():
         tp = UsefulProxyPool.runningPool(
                 'localhost',         # 数据库所在主机的ip
                 'root',           # 数据库用户名
-                '  ',       # 数据库密码
+                'tw2016941017',       # 数据库密码
                 'ProxyPool2',       # 数据库名称(可省, 程序指定为ProxyPool2)
                 National=True,      # 国内代理的标志
                 highLevel=True,         # 高匿代理的标志
@@ -140,12 +140,18 @@ class ScienceDirectCrawl():
             self.freshproxypool()
         return self.proxypoolset.pop()
 
-    def getpageInfo(self, vurl):
+    def getpageInfo(self, vurl, proxyIp=''):
         """ 获得网页的请求的具体信息 """
+        Flag = False
         while(True):
             try:
-                ansPage = requests.get(vurl, proxies={"http": 'http://' + self.getoneProxyIp()}, headers=self.headers, timeout=60)
-                return ansPage
+                if proxyIp == '' or Flag == True:
+                    newProxyIp = self.getoneProxyIp()
+                else:
+                    newProxyIp = proxyIp
+                Flag = True
+                ansPage = requests.get(vurl, proxies={"http": 'http://' + newProxyIp}, headers=self.headers, timeout=60)
+                return ansPage, newProxyIp
             except Exception as e:
                 print 'get proxyError! change proxyIp and repeat it!'
 
@@ -154,6 +160,7 @@ class ScienceDirectCrawl():
         socket.setdefaulttimeout(1800.0)
         try:
             rcd = self.td.getControlInfo('downloadAUrls')
+            oldProxyIp = ''
             while(rcd!=None):
                 TotalVolume, volumeNum, subNum = self.JudgeVandsub(rcd)
                 print rcd[0]
@@ -162,7 +169,7 @@ class ScienceDirectCrawl():
                     return
                 vurl = rcd[0] + '/' + str(volumeNum) + '/' + str(subNum)
                 # ansPage = requests.get(vurl, headers=self.headers)
-                ansPage = self.getpageInfo(vurl)
+                ansPage, oldProxyIp = self.getpageInfo(vurl, oldProxyIp)
                 if ansPage.status_code == 200:
                     print '更新:',rcd[1],' ',volumeNum,'-',subNum
                     Alist = self.ParseAurls(ansPage, rcd[1], volumeNum, subNum)        # 返回当前页中包含的所有文献的urls的list,注意list元素中各项的排列顺序
@@ -180,7 +187,7 @@ class ScienceDirectCrawl():
                     subNum = -1
                     vurl = rcd[0] + '/' + str(volumeNum)
                     # ansPage = requests.get(vurl, headers=self.headers)
-                    ansPage = self.getpageInfo(vurl)
+                    ansPage, oldProxyIp = self.getpageInfo(vurl, oldProxyIp)
                     if ansPage.status_code == 200:
                         print '更新:',rcd[1],' ', volumeNum, '-' , 0
                         Alist = self.ParseAurls(ansPage, rcd[1], volumeNum)
@@ -217,7 +224,7 @@ class ScienceDirectCrawl():
         pass
 
 if __name__ == '__main__':
-    sd = ScienceDirectCrawl("localhost", "root", "  ", "ScienceDirectInfo")
+    sd = ScienceDirectCrawl("localhost", "root", "tw2016941017", "ScienceDirectInfo")
     # sd.getVolumeInfo()
     sd.getArticlesUrls()
     # print sd.getoneProxyIp()
