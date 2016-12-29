@@ -38,7 +38,7 @@ def run():
             ansrcd = td.getoneAurl()
             continue
         except URLError:
-            print "webdriver网页加载超时,重启..."
+            print "URLError,网页加载超时或者网页连接请求被拒绝..."
             return -1
         except Exception as e:
             print e

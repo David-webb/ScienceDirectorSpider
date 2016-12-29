@@ -2,10 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="665b4897-ace4-45b4-8c10-c1d13272d74e" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SchedulerofArticlesParse.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ScienceDirect2016.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ScienceDirectExceptions.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TimerNetworkControler.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SchedulerofArticlesParse.py" afterPath="$PROJECT_DIR$/SchedulerofArticlesParse.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TimerNetworkControler.py" afterPath="$PROJECT_DIR$/TimerNetworkControler.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/getArticlesInfo.py" afterPath="$PROJECT_DIR$/getArticlesInfo.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ghostdriver.log" afterPath="$PROJECT_DIR$/ghostdriver.log" />
     </list>
     <ignored path="Sciencedirect.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -41,8 +42,8 @@
       <file leaf-file-name="SchedulerofArticlesParse.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/SchedulerofArticlesParse.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="1.5062761">
-              <caret line="40" column="41" selection-start-line="40" selection-start-column="41" selection-end-line="40" selection-end-column="41" />
+            <state vertical-scroll-proportion="0.8661088">
+              <caret line="23" column="46" selection-start-line="23" selection-start-column="46" selection-end-line="23" selection-end-column="46" />
               <folding>
                 <element signature="e#69#93#0" expanded="true" />
               </folding>
@@ -54,7 +55,7 @@
         <entry file="file://$PROJECT_DIR$/getArticlesInfo.py">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="201" column="43" selection-start-line="201" selection-start-column="43" selection-end-line="201" selection-end-column="43" />
+              <caret line="251" column="16" selection-start-line="251" selection-start-column="16" selection-end-line="251" selection-end-column="16" />
               <folding>
                 <element signature="e#23#53#0" expanded="true" />
               </folding>
@@ -66,8 +67,10 @@
         <entry file="file://$PROJECT_DIR$/TimerNetworkControler.py">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="16" column="43" selection-start-line="16" selection-start-column="43" selection-end-line="16" selection-end-column="43" />
-              <folding />
+              <caret line="74" column="64" selection-start-line="74" selection-start-column="28" selection-end-line="74" selection-end-column="77" />
+              <folding>
+                <element signature="e#1264#1294#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -78,6 +81,18 @@
             <state vertical-scroll-proportion="0.0">
               <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="JournalsUrl.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/JournalsUrl.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="155" column="69" selection-start-line="144" selection-start-column="7" selection-end-line="155" selection-end-column="69" />
+              <folding>
+                <element signature="e#23#59#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -104,18 +119,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="JournalsUrl.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/JournalsUrl.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="144" column="20" selection-start-line="144" selection-start-column="20" selection-end-line="144" selection-end-column="20" />
-              <folding>
-                <element signature="e#23#59#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
     </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
@@ -138,18 +141,18 @@
         <option value="$PROJECT_DIR$/xiciSetup.txt" />
         <option value="$PROJECT_DIR$/DataBaseOp.py" />
         <option value="$PROJECT_DIR$/ScienceDirectExceptions.py" />
-        <option value="$PROJECT_DIR$/getArticlesInfo.py" />
-        <option value="$PROJECT_DIR$/TimerNetworkControler.py" />
-        <option value="$PROJECT_DIR$/SchedulerofArticlesParse.py" />
         <option value="$PROJECT_DIR$/tmpurls.txt" />
         <option value="$PROJECT_DIR$/JournalsUrl.py" />
+        <option value="$PROJECT_DIR$/SchedulerofArticlesParse.py" />
+        <option value="$PROJECT_DIR$/TimerNetworkControler.py" />
+        <option value="$PROJECT_DIR$/getArticlesInfo.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="y" value="-4" />
+    <option name="y" value="24" />
     <option name="width" value="1366" />
-    <option name="height" value="772" />
+    <option name="height" value="744" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -204,7 +207,7 @@
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="Python.Inspector">
+  <component name="RunManager" selected="Python.TimerNetworkControler">
     <configuration default="false" name="SchedulerofArticlesParse" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -421,9 +424,9 @@
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.Inspector" />
-        <item index="1" class="java.lang.String" itemvalue="Python.SchedulerofArticlesParse" />
-        <item index="2" class="java.lang.String" itemvalue="Python.TimerNetworkControler" />
+        <item index="0" class="java.lang.String" itemvalue="Python.TimerNetworkControler" />
+        <item index="1" class="java.lang.String" itemvalue="Python.Inspector" />
+        <item index="2" class="java.lang.String" itemvalue="Python.SchedulerofArticlesParse" />
         <item index="3" class="java.lang.String" itemvalue="Python.JournalsUrl" />
         <item index="4" class="java.lang.String" itemvalue="Python.DataBaseOp" />
       </list>
@@ -443,7 +446,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="-4" width="1366" height="772" extended-state="6" />
+    <frame x="0" y="24" width="1366" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27347243" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -502,36 +505,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Inspector.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="20" column="18" selection-start-line="20" selection-start-column="18" selection-end-line="20" selection-end-column="18" />
-          <folding>
-            <element signature="e#24#33#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JournalsUrl.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="22" />
-          <folding>
-            <element signature="e#23#59#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DataBaseOp.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
-          <folding>
-            <element signature="e#24#38#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/getArticlesInfo.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -864,21 +837,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/GetDataWithAjax.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="73" column="0" selection-start-line="73" selection-start-column="0" selection-end-line="73" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file:///usr/local/lib/python2.7/dist-packages/selenium/webdriver/remote/errorhandler.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.037656903">
           <caret line="146" column="48" selection-start-line="146" selection-start-column="29" selection-end-line="146" selection-end-column="48" />
-          <folding>
-            <element signature="e#788#856#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -886,7 +848,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -894,7 +855,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-75.8954">
           <caret line="29" column="0" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -908,10 +868,42 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/GetDataWithAjax.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="73" column="0" selection-start-line="73" selection-start-column="0" selection-end-line="73" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/lib/python2.7/urllib2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="1183" column="0" selection-start-line="1183" selection-start-column="0" selection-end-line="1183" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/lib/python2.7/dist-packages/selenium/webdriver/phantomjs/service.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="26" column="8" selection-start-line="26" selection-start-column="8" selection-end-line="26" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/lib/python2.7/dist-packages/selenium/webdriver/phantomjs/webdriver.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5585774">
+          <caret line="48" column="27" selection-start-line="48" selection-start-column="27" selection-end-line="48" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/JournalsUrl.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="144" column="20" selection-start-line="144" selection-start-column="20" selection-end-line="144" selection-end-column="20" />
+          <caret line="155" column="69" selection-start-line="144" selection-start-column="7" selection-end-line="155" selection-end-column="69" />
           <folding>
             <element signature="e#23#59#0" expanded="true" />
           </folding>
@@ -929,15 +921,17 @@
     <entry file="file://$PROJECT_DIR$/TimerNetworkControler.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="16" column="43" selection-start-line="16" selection-start-column="43" selection-end-line="16" selection-end-column="43" />
-          <folding />
+          <caret line="74" column="64" selection-start-line="74" selection-start-column="28" selection-end-line="74" selection-end-column="77" />
+          <folding>
+            <element signature="e#1264#1294#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/getArticlesInfo.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="201" column="43" selection-start-line="201" selection-start-column="43" selection-end-line="201" selection-end-column="43" />
+          <caret line="251" column="16" selection-start-line="251" selection-start-column="16" selection-end-line="251" selection-end-column="16" />
           <folding>
             <element signature="e#23#53#0" expanded="true" />
           </folding>
@@ -946,8 +940,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/SchedulerofArticlesParse.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.5062761">
-          <caret line="40" column="41" selection-start-line="40" selection-start-column="41" selection-end-line="40" selection-end-column="41" />
+        <state vertical-scroll-proportion="0.8661088">
+          <caret line="23" column="46" selection-start-line="23" selection-start-column="46" selection-end-line="23" selection-end-column="46" />
           <folding>
             <element signature="e#69#93#0" expanded="true" />
           </folding>

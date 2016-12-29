@@ -2,18 +2,73 @@
 from selenium import webdriver
 from selenium.common.exceptions import NoSuchElementException
 from ScienceDirectExceptions import ParseArticleInfoError
-
+from selenium.webdriver.common.desired_capabilities import DesiredCapabilities
+import time, random
+import UsefulProxyPool
 class GetArsInfo():
     def __init__(self, Aurl):
         self.Aurl = Aurl
         # 这里的driver必须设置为类成员变量(driver.get 会redirect,不用新建实例),
         # 或者在函数中每次创建一个driver变量,结束后要将它显示删除(driver.quit(), browser.close() closes the window
         # but does not quit the instance of chromedrive),否则会一致占用内存
-        self.driver = webdriver.PhantomJS(service_args=['--ignore-ssl-errors=true', '--ssl-protocol=tlsv1'])
+        self.driver = self.phantomjsdriverinit()
+        self.proxypoolset = set()
+
         pass
 
+
+    def freshproxypool(self):
+        tp = UsefulProxyPool.runningPool(
+                'localhost',         # 数据库所在主机的ip
+                'root',           # 数据库用户名
+                'tw2016941017',       # 数据库密码
+                'ProxyPool2',       # 数据库名称(可省, 程序指定为ProxyPool2)
+                National=True,      # 国内代理的标志
+                highLevel=True,         # 高匿代理的标志
+                timeout=10)     # 超时设置
+
+        tp.run(
+                mode='M',       # 验证模式:单线程('S') / 多线程('M')
+                multiNum=10,        # 多线程模式下, 设置多线程的个数, 默认: 10个
+                timeRange=1200  # 指定提取该时间范围内代理, 单位:分钟, 默认: 2880 分钟(两天内)
+                )
+
+        self.proxypoolset = tp.pool           # 提取到的代理ip池, 集合(set)类型
+        pass
+
+    def getoneProxyIp(self):
+        if len(self.proxypoolset) == 0:
+            self.freshproxypool()
+        return self.proxypoolset.pop()
+
+    def phantomjsdriverinit(self):
+        proxyIp = self.getoneProxyIp()
+        USER_AGENTS = [
+            'Mozilla/5.0 (X11; Linux i586; rv:31.0) Gecko/20100101 Firefox/31.0'
+        ]
+        # 引入配置对象DesiredCapabilities
+        dcap = dict(DesiredCapabilities.PHANTOMJS)
+        dcap["phantomjs.page.settings.userAgent"] = (random.choice(USER_AGENTS))  # 从USER_AGENTS列表中随机选一个浏览器头，伪装浏览器
+        dcap["phantomjs.page.settings.loadImages"] = False                        # 不载入图片，爬页面速度会快很多
+        service_args = ['--proxy=' + proxyIp, '--proxy-type=http', '--ignore-ssl-errors=true', '--ssl-protocol=tlsv1']          # 设置代理
+
+        # 打开带配置信息的phantomJS浏览器
+        driver = webdriver.PhantomJS(desired_capabilities=dcap, service_args=service_args)
+        # 隐式等待5秒，可以自己调节
+        time.sleep(5)
+        # driver.implicitly_wait(5)
+
+        # 设置60秒页面超时返回，类似于requests.get()的timeout选项，driver.get()没有timeout选项
+        # 以前遇到过driver.get(url)一直不返回，但也不报错的问题，这时程序会卡住，设置超时选项能解决这个问题。
+        driver.set_page_load_timeout(60)
+
+        # 设置脚本超时时间
+        driver.set_script_timeout(20)
+        return driver
+        pass
     def __del__(self):
         self.driver.quit()      # 显示删除, 否则大量的对象会导致内存溢出, 会有 OSError: [Errno 24] Too many open files
+                                # quit 关闭的是浏览器, close关闭的是标签
 
     def parseDate(self, datestr=''):
         dates = datestr.split(',')
@@ -182,6 +237,26 @@ class GetArsInfo():
         pass
 
 
+    def changeDriverProxy(self):
+        try:
+            proxyIp = self.getoneProxyIp()
+            self.driver.service.service_args = ['--proxy=' + proxyIp, '--proxy-type=http', '--ignore-ssl-errors=true', '--ssl-protocol=tlsv1']
+        except Exception as e:
+            print e
+            return False
+        return True
+        pass
+
+    def firstLoadPage(self):
+        while(True):
+            try:
+                self.driver.get(self.Aurl)
+                return True
+            except Exception as e:
+                print e
+                print 'get proxyError! change proxyIp and repeat it!'
+                self.changeDriverProxy()
+        pass
     def getArticlesInfo(self):
         # driver = webdriver.PhantomJS()
         # driver = webdriver.Firefox()
