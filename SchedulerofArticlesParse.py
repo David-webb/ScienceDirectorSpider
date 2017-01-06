@@ -9,6 +9,7 @@ from urllib2 import URLError
 import json
 import time
 
+
 def run():
     td = ScienceDirectMysql("localhost", "root", "tw2016941017", "ScienceDirectInfo")
     ansrcd = td.getoneAurl()    # 获得一条文章的url

@@ -5,6 +5,7 @@ from ScienceDirectExceptions import ParseArticleInfoError
 from selenium.webdriver.common.desired_capabilities import DesiredCapabilities
 import time, random
 import UsefulProxyPool
+
 class GetArsInfo():
     def __init__(self, Aurl):
         self.Aurl = Aurl
@@ -238,6 +239,7 @@ class GetArsInfo():
 
 
     def changeDriverProxy(self):
+        """ 这里的异常要确定类型!!!!!!!!!!!!proxy出错的异常!!!!!!!!!!"""
         try:
             proxyIp = self.getoneProxyIp()
             self.driver.service.service_args = ['--proxy=' + proxyIp, '--proxy-type=http', '--ignore-ssl-errors=true', '--ssl-protocol=tlsv1']
@@ -246,6 +248,7 @@ class GetArsInfo():
             return False
         return True
         pass
+
 
     def firstLoadPage(self):
         while(True):
@@ -257,12 +260,14 @@ class GetArsInfo():
                 print 'get proxyError! change proxyIp and repeat it!'
                 self.changeDriverProxy()
         pass
+
     def getArticlesInfo(self):
         # driver = webdriver.PhantomJS()
         # driver = webdriver.Firefox()
         # driver = webdriver.PhantomJS(service_args=['--ignore-ssl-errors=true', '--ssl-protocol=tlsv1'])
 
         # 设定页面加载限制时间
+
         self.driver.set_page_load_timeout(60)
         self.driver.get(self.Aurl)
         # try:
