@@ -164,11 +164,11 @@ class ScienceDirectCrawl():
             while(rcd!=None):
                 TotalVolume, volumeNum, subNum = self.JudgeVandsub(rcd)
                 print rcd[0]
-                firstPage, oldProxyIp = self.getpageInfo(rcd[0])
+                # firstPage, oldProxyIp = self.getpageInfo(rcd[0])
                 # if requests.get(rcd[0], headers=self.headers).status_code == 404:
-                if firstPage.status_code == 404:
-                    print '访问被禁！退出并等待！'
-                    return
+                # if firstPage.status_code == 404:
+                #     print '访问被禁！退出并等待！'
+                #     return
                 vurl = rcd[0] + '/' + str(volumeNum) + '/' + str(subNum)
                 # ansPage = requests.get(vurl, headers=self.headers)
                 ansPage, oldProxyIp = self.getpageInfo(vurl, oldProxyIp)
